@@ -24,4 +24,4 @@ Route::get('info', function () {
         ],
         'ingame' => 'Fizz Not Feed#FNF',
     ]);
-})
+});
