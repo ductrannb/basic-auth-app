@@ -1,0 +1,6535 @@
+[
+    {
+        "name": "Cần Thơ",
+        "districts": [
+            {
+                "name": "Ninh Kiều",
+                "wards": [
+                    {
+                        "name": "An Bình"
+                    },
+                    {
+                        "name": "An Cư"
+                    },
+                    {
+                        "name": "An Hòa"
+                    },
+                    {
+                        "name": "An Khánh"
+                    },
+                    {
+                        "name": "An Nghiệp"
+                    },
+                    {
+                        "name": "An Phú"
+                    },
+                    {
+                        "name": "Cái Khế"
+                    },
+                    {
+                        "name": "Hưng Lợi"
+                    },
+                    {
+                        "name": "Tân An"
+                    },
+                    {
+                        "name": "Thới Bình"
+                    },
+                    {
+                        "name": "Xuân Khánh"
+                    }
+                ]
+            },
+            {
+                "name": "Bình Thủy",
+                "wards": [
+                    {
+                        "name": "An Thới"
+                    },
+                    {
+                        "name": "Bình Thủy"
+                    },
+                    {
+                        "name": "Bùi Hữu Nghĩa"
+                    },
+                    {
+                        "name": "Long Hòa"
+                    },
+                    {
+                        "name": "Long Tuyền"
+                    },
+                    {
+                        "name": "Thới An Đông"
+                    },
+                    {
+                        "name": "Trà An"
+                    },
+                    {
+                        "name": "Trà Nóc"
+                    }
+                ]
+            },
+            {
+                "name": "Cái Răng",
+                "wards": [
+                    {
+                        "name": "Ba Láng"
+                    },
+                    {
+                        "name": "Hưng Phú"
+                    },
+                    {
+                        "name": "Hưng Thạnh"
+                    },
+                    {
+                        "name": "Lê Bình"
+                    },
+                    {
+                        "name": "Phú Thứ"
+                    },
+                    {
+                        "name": "Tân Phú"
+                    },
+                    {
+                        "name": "Thường Thạnh"
+                    }
+                ]
+            },
+            {
+                "name": "Ô Môn",
+                "wards": [
+                    {
+                        "name": "Châu Văn Liêm"
+                    },
+                    {
+                        "name": "Long Hưng"
+                    },
+                    {
+                        "name": "Phước Thới"
+                    },
+                    {
+                        "name": "Thới An"
+                    },
+                    {
+                        "name": "Thới Hòa"
+                    },
+                    {
+                        "name": "Thới Long"
+                    },
+                    {
+                        "name": "Trường Lạc"
+                    }
+                ]
+            },
+            {
+                "name": "Thốt Nốt",
+                "wards": [
+                    {
+                        "name": "Tân Hưng"
+                    },
+                    {
+                        "name": "Tân Lộc"
+                    },
+                    {
+                        "name": "Thạnh Hòa"
+                    },
+                    {
+                        "name": "Thốt Nốt"
+                    },
+                    {
+                        "name": "Thới Thuận"
+                    },
+                    {
+                        "name": "Thuận An"
+                    },
+                    {
+                        "name": "Thuận Hưng"
+                    },
+                    {
+                        "name": "Trung Kiên"
+                    },
+                    {
+                        "name": "Trung Nhứt"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Đà Nẵng",
+        "districts": [
+            {
+                "name": "Sơn Trà",
+                "wards": [
+                    {
+                        "name": "An Hải Bắc"
+                    },
+                    {
+                        "name": "An Hải Đông"
+                    },
+                    {
+                        "name": "An Hải Tây"
+                    },
+                    {
+                        "name": "Mân Thái"
+                    },
+                    {
+                        "name": "Nại Hiên Đông"
+                    },
+                    {
+                        "name": "Phước Mỹ"
+                    },
+                    {
+                        "name": "Thọ Quang"
+                    }
+                ]
+            },
+            {
+                "name": "Thanh Khê",
+                "wards": [
+                    {
+                        "name": "An Khê"
+                    },
+                    {
+                        "name": "Chính Gián"
+                    },
+                    {
+                        "name": "Hòa Khê"
+                    },
+                    {
+                        "name": "Tam Thuận"
+                    },
+                    {
+                        "name": "Tân Chính"
+                    },
+                    {
+                        "name": "Thạc Gián"
+                    },
+                    {
+                        "name": "Thanh Khê Đông"
+                    },
+                    {
+                        "name": "Thanh Khê Tây"
+                    },
+                    {
+                        "name": "Vĩnh Trung"
+                    },
+                    {
+                        "name": "Xuân Hà"
+                    }
+                ]
+            },
+            {
+                "name": "Hải Châu",
+                "wards": [
+                    {
+                        "name": "Bình Hiên"
+                    },
+                    {
+                        "name": "Bình Thuận"
+                    },
+                    {
+                        "name": "Hải Châu I"
+                    },
+                    {
+                        "name": "Hải Châu II"
+                    },
+                    {
+                        "name": "Hòa Cường Bắc"
+                    },
+                    {
+                        "name": "Hòa Cường Nam"
+                    },
+                    {
+                        "name": "Hòa Thuận Đông"
+                    },
+                    {
+                        "name": "Hòa Thuận Tây"
+                    },
+                    {
+                        "name": "Nam Dương"
+                    },
+                    {
+                        "name": "Phước Ninh"
+                    },
+                    {
+                        "name": "Thạch Thang"
+                    },
+                    {
+                        "name": "Thanh Bình"
+                    },
+                    {
+                        "name": "Thuận Phước"
+                    }
+                ]
+            },
+            {
+                "name": "Cẩm Lệ",
+                "wards": [
+                    {
+                        "name": "Hòa An"
+                    },
+                    {
+                        "name": "Hòa Phát"
+                    },
+                    {
+                        "name": "Hòa Thọ Đông"
+                    },
+                    {
+                        "name": "Hòa Thọ Tây"
+                    },
+                    {
+                        "name": "Hòa Xuân"
+                    },
+                    {
+                        "name": "Khuê Trung"
+                    }
+                ]
+            },
+            {
+                "name": "Ngũ Hành Sơn",
+                "wards": [
+                    {
+                        "name": "Hòa Hải"
+                    },
+                    {
+                        "name": "Hòa Quý"
+                    },
+                    {
+                        "name": "Khuê Mỹ"
+                    },
+                    {
+                        "name": "Mỹ An"
+                    }
+                ]
+            },
+            {
+                "name": "Liên Chiểu",
+                "wards": [
+                    {
+                        "name": "Hòa Hiệp Bắc"
+                    },
+                    {
+                        "name": "Hòa Hiệp Nam"
+                    },
+                    {
+                        "name": "Hòa Khánh Bắc"
+                    },
+                    {
+                        "name": "Hòa Khánh Nam"
+                    },
+                    {
+                        "name": "Hòa Minh"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hà Nội",
+        "districts": [
+            {
+                "name": "Hai Bà Trưng",
+                "wards": [
+                    {
+                        "name": "Bạch Đằng"
+                    },
+                    {
+                        "name": "Bách Khoa"
+                    },
+                    {
+                        "name": "Bạch Mai"
+                    },
+                    {
+                        "name": "Cầu Dền"
+                    },
+                    {
+                        "name": "Đống Mác"
+                    },
+                    {
+                        "name": "Đồng Nhân"
+                    },
+                    {
+                        "name": "Đồng Tâm"
+                    },
+                    {
+                        "name": "Lê Đại Hành"
+                    },
+                    {
+                        "name": "Minh Khai"
+                    },
+                    {
+                        "name": "Nguyễn Du"
+                    },
+                    {
+                        "name": "Phạm Đình Hổ"
+                    },
+                    {
+                        "name": "Phố Huế"
+                    },
+                    {
+                        "name": "Quỳnh Lôi"
+                    },
+                    {
+                        "name": "Quỳnh Mai"
+                    },
+                    {
+                        "name": "Thanh Lương"
+                    },
+                    {
+                        "name": "Thanh Nhàn"
+                    },
+                    {
+                        "name": "Trương Định"
+                    },
+                    {
+                        "name": "Vĩnh Tuy"
+                    }
+                ]
+            },
+            {
+                "name": "Hà Đông",
+                "wards": [
+                    {
+                        "name": "Biên Giang"
+                    },
+                    {
+                        "name": "Dương Nội"
+                    },
+                    {
+                        "name": "Đồng Mai"
+                    },
+                    {
+                        "name": "Hà Cầu"
+                    },
+                    {
+                        "name": "Kiến Hưng"
+                    },
+                    {
+                        "name": "La Khê"
+                    },
+                    {
+                        "name": "Mộ Lao"
+                    },
+                    {
+                        "name": "Nguyễn Trãi"
+                    },
+                    {
+                        "name": "Phú La"
+                    },
+                    {
+                        "name": "Phú Lãm"
+                    },
+                    {
+                        "name": "Phú Lương"
+                    },
+                    {
+                        "name": "Phúc La"
+                    },
+                    {
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "name": "Vạn Phúc"
+                    },
+                    {
+                        "name": "Văn Quán"
+                    },
+                    {
+                        "name": "Yên Nghĩa"
+                    },
+                    {
+                        "name": "Yết Kiêu"
+                    }
+                ]
+            },
+            {
+                "name": "Long Biên",
+                "wards": [
+                    {
+                        "name": "Bồ Đề"
+                    },
+                    {
+                        "name": "Cự Khối"
+                    },
+                    {
+                        "name": "Đức Giang"
+                    },
+                    {
+                        "name": "Gia Thụy"
+                    },
+                    {
+                        "name": "Giang Biên"
+                    },
+                    {
+                        "name": "Long Biên"
+                    },
+                    {
+                        "name": "Ngọc Lâm"
+                    },
+                    {
+                        "name": "Ngọc Thụy"
+                    },
+                    {
+                        "name": "Phúc Đồng"
+                    },
+                    {
+                        "name": "Phúc Lợi"
+                    },
+                    {
+                        "name": "Sài Đồng"
+                    },
+                    {
+                        "name": "Thạch Bàn"
+                    },
+                    {
+                        "name": "Thượng Thanh"
+                    },
+                    {
+                        "name": "Việt Hưng"
+                    }
+                ]
+            },
+            {
+                "name": "Tây Hồ",
+                "wards": [
+                    {
+                        "name": "Bưởi"
+                    },
+                    {
+                        "name": "Nhật Tân"
+                    },
+                    {
+                        "name": "Phú Thượng"
+                    },
+                    {
+                        "name": "Quảng An"
+                    },
+                    {
+                        "name": "Thụy Khuê"
+                    },
+                    {
+                        "name": "Tứ Liên"
+                    },
+                    {
+                        "name": "Xuân La"
+                    },
+                    {
+                        "name": "Yên Phụ"
+                    }
+                ]
+            },
+            {
+                "name": "Đống Đa",
+                "wards": [
+                    {
+                        "name": "Cát Linh"
+                    },
+                    {
+                        "name": "Hàng Bột"
+                    },
+                    {
+                        "name": "Khâm Thiên"
+                    },
+                    {
+                        "name": "Khương Thượng"
+                    },
+                    {
+                        "name": "Kim Liên"
+                    },
+                    {
+                        "name": "Láng Hạ"
+                    },
+                    {
+                        "name": "Láng Thượng"
+                    },
+                    {
+                        "name": "Nam Đồng"
+                    },
+                    {
+                        "name": "Ngã Tư Sở"
+                    },
+                    {
+                        "name": "Ô Chợ Dừa"
+                    },
+                    {
+                        "name": "Phương Liên"
+                    },
+                    {
+                        "name": "Phương Mai"
+                    },
+                    {
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "name": "Quốc Tử Giám"
+                    },
+                    {
+                        "name": "Thịnh Quang"
+                    },
+                    {
+                        "name": "Thổ Quan"
+                    },
+                    {
+                        "name": "Trung Liệt"
+                    },
+                    {
+                        "name": "Trung Phụng"
+                    },
+                    {
+                        "name": "Trung Tự"
+                    },
+                    {
+                        "name": "Văn Chương"
+                    },
+                    {
+                        "name": "Văn Miếu"
+                    }
+                ]
+            },
+            {
+                "name": "Nam Từ Liêm",
+                "wards": [
+                    {
+                        "name": "Cầu Diễn"
+                    },
+                    {
+                        "name": "Đại Mỗ"
+                    },
+                    {
+                        "name": "Mễ Trì"
+                    },
+                    {
+                        "name": "Mỹ Đình 1"
+                    },
+                    {
+                        "name": "Mỹ Đình 2"
+                    },
+                    {
+                        "name": "Phú Đô"
+                    },
+                    {
+                        "name": "Phương Canh"
+                    },
+                    {
+                        "name": "Tây Mỗ"
+                    },
+                    {
+                        "name": "Trung Văn"
+                    },
+                    {
+                        "name": "Xuân Phương"
+                    }
+                ]
+            },
+            {
+                "name": "Hoàn Kiếm",
+                "wards": [
+                    {
+                        "name": "Chương Dương"
+                    },
+                    {
+                        "name": "Cửa Đông"
+                    },
+                    {
+                        "name": "Cửa Nam"
+                    },
+                    {
+                        "name": "Đồng Xuân"
+                    },
+                    {
+                        "name": "Hàng Bạc"
+                    },
+                    {
+                        "name": "Hàng Bài"
+                    },
+                    {
+                        "name": "Hàng Bồ"
+                    },
+                    {
+                        "name": "Hàng Bông"
+                    },
+                    {
+                        "name": "Hàng Buồm"
+                    },
+                    {
+                        "name": "Hàng Đào"
+                    },
+                    {
+                        "name": "Hàng Gai"
+                    },
+                    {
+                        "name": "Hàng Mã"
+                    },
+                    {
+                        "name": "Hàng Trống"
+                    },
+                    {
+                        "name": "Lý Thái Tổ"
+                    },
+                    {
+                        "name": "Phan Chu Trinh"
+                    },
+                    {
+                        "name": "Phúc Tân"
+                    },
+                    {
+                        "name": "Tràng Tiền"
+                    },
+                    {
+                        "name": "Trần Hưng Đạo"
+                    }
+                ]
+            },
+            {
+                "name": "Bắc Từ Liêm",
+                "wards": [
+                    {
+                        "name": "Cổ Nhuế 1"
+                    },
+                    {
+                        "name": "Cổ Nhuế 2"
+                    },
+                    {
+                        "name": "Đông Ngạc"
+                    },
+                    {
+                        "name": "Đức Thắng"
+                    },
+                    {
+                        "name": "Liên Mạc"
+                    },
+                    {
+                        "name": "Minh Khai"
+                    },
+                    {
+                        "name": "Phú Diễn"
+                    },
+                    {
+                        "name": "Phúc Diễn"
+                    },
+                    {
+                        "name": "Tây Tựu"
+                    },
+                    {
+                        "name": "Thụy Phương"
+                    },
+                    {
+                        "name": "Thượng Cát"
+                    },
+                    {
+                        "name": "Xuân Đỉnh"
+                    },
+                    {
+                        "name": "Xuân Tảo"
+                    }
+                ]
+            },
+            {
+                "name": "Ba Đình",
+                "wards": [
+                    {
+                        "name": "Cống Vị"
+                    },
+                    {
+                        "name": "Điện Biên"
+                    },
+                    {
+                        "name": "Đội Cấn"
+                    },
+                    {
+                        "name": "Giảng Võ"
+                    },
+                    {
+                        "name": "Kim Mã"
+                    },
+                    {
+                        "name": "Liễu Giai"
+                    },
+                    {
+                        "name": "Ngọc Hà"
+                    },
+                    {
+                        "name": "Ngọc Khánh"
+                    },
+                    {
+                        "name": "Nguyễn Trung Trực"
+                    },
+                    {
+                        "name": "Phúc Xá"
+                    },
+                    {
+                        "name": "Quán Thánh"
+                    },
+                    {
+                        "name": "Thành Công"
+                    },
+                    {
+                        "name": "Trúc Bạch"
+                    },
+                    {
+                        "name": "Vĩnh Phúc"
+                    }
+                ]
+            },
+            {
+                "name": "Cầu Giấy",
+                "wards": [
+                    {
+                        "name": "Dịch Vọng"
+                    },
+                    {
+                        "name": "Dịch Vọng Hậu"
+                    },
+                    {
+                        "name": "Mai Dịch"
+                    },
+                    {
+                        "name": "Nghĩa Đô"
+                    },
+                    {
+                        "name": "Nghĩa Tân"
+                    },
+                    {
+                        "name": "Quan Hoa"
+                    },
+                    {
+                        "name": "Trung Hòa"
+                    },
+                    {
+                        "name": "Yên Hòa"
+                    }
+                ]
+            },
+            {
+                "name": "Hoàng Mai",
+                "wards": [
+                    {
+                        "name": "Đại Kim"
+                    },
+                    {
+                        "name": "Định Công"
+                    },
+                    {
+                        "name": "Giáp Bát"
+                    },
+                    {
+                        "name": "Hoàng Liệt"
+                    },
+                    {
+                        "name": "Hoàng Văn Thụ"
+                    },
+                    {
+                        "name": "Lĩnh Nam"
+                    },
+                    {
+                        "name": "Mai Động"
+                    },
+                    {
+                        "name": "Tân Mai"
+                    },
+                    {
+                        "name": "Thanh Trì"
+                    },
+                    {
+                        "name": "Thịnh Liệt"
+                    },
+                    {
+                        "name": "Trần Phú"
+                    },
+                    {
+                        "name": "Tương Mai"
+                    },
+                    {
+                        "name": "Vĩnh Hưng"
+                    },
+                    {
+                        "name": "Yên Sở"
+                    }
+                ]
+            },
+            {
+                "name": "Thanh Xuân",
+                "wards": [
+                    {
+                        "name": "Hạ Đình"
+                    },
+                    {
+                        "name": "Khương Đình"
+                    },
+                    {
+                        "name": "Khương Mai"
+                    },
+                    {
+                        "name": "Khương Trung"
+                    },
+                    {
+                        "name": "Kim Giang"
+                    },
+                    {
+                        "name": "Nhân Chính"
+                    },
+                    {
+                        "name": "Phương Liệt"
+                    },
+                    {
+                        "name": "Thanh Xuân Bắc"
+                    },
+                    {
+                        "name": "Thanh Xuân Nam"
+                    },
+                    {
+                        "name": "Thanh Xuân Trung"
+                    },
+                    {
+                        "name": "Thượng Đình"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Sơn Tây",
+                "wards": [
+                    {
+                        "name": "Lê Lợi"
+                    },
+                    {
+                        "name": "Ngô Quyền"
+                    },
+                    {
+                        "name": "Phú Thịnh"
+                    },
+                    {
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "name": "Sơn Lộc"
+                    },
+                    {
+                        "name": "Trung Hưng"
+                    },
+                    {
+                        "name": "Trung Sơn Trầm"
+                    },
+                    {
+                        "name": "Viên Sơn"
+                    },
+                    {
+                        "name": "Xuân Khanh"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hải Phòng",
+        "districts": [
+            {
+                "name": "Lê Chân",
+                "wards": [
+                    {
+                        "name": "An Biên"
+                    },
+                    {
+                        "name": "An Dương"
+                    },
+                    {
+                        "name": "Cát Dài"
+                    },
+                    {
+                        "name": "Dư Hàng"
+                    },
+                    {
+                        "name": "Dư Hàng Kênh"
+                    },
+                    {
+                        "name": "Đông Hải"
+                    },
+                    {
+                        "name": "Hàng Kênh"
+                    },
+                    {
+                        "name": "Hồ Nam"
+                    },
+                    {
+                        "name": "Kênh Dương"
+                    },
+                    {
+                        "name": "Lam Sơn"
+                    },
+                    {
+                        "name": "Nghĩa Xá"
+                    },
+                    {
+                        "name": "Niệm Nghĩa"
+                    },
+                    {
+                        "name": "Trại Cau"
+                    },
+                    {
+                        "name": "Trần Nguyên Hãn"
+                    },
+                    {
+                        "name": "Vĩnh Niệm"
+                    }
+                ]
+            },
+            {
+                "name": "Dương Kinh",
+                "wards": [
+                    {
+                        "name": "Anh Dũng"
+                    },
+                    {
+                        "name": "Đa Phúc"
+                    },
+                    {
+                        "name": "Hải Thành"
+                    },
+                    {
+                        "name": "Hòa Nghĩa"
+                    },
+                    {
+                        "name": "Hưng Đạo"
+                    },
+                    {
+                        "name": "Tân Thành"
+                    }
+                ]
+            },
+            {
+                "name": "Đồ Sơn",
+                "wards": [
+                    {
+                        "name": "Bàng La"
+                    },
+                    {
+                        "name": "Hải Sơn"
+                    },
+                    {
+                        "name": "Hợp Đức"
+                    },
+                    {
+                        "name": "Minh Đức"
+                    },
+                    {
+                        "name": "Ngọc Xuyên"
+                    },
+                    {
+                        "name": "Vạn Hương"
+                    }
+                ]
+            },
+            {
+                "name": "Kiến An",
+                "wards": [
+                    {
+                        "name": "Bắc Sơn"
+                    },
+                    {
+                        "name": "Đồng Hòa"
+                    },
+                    {
+                        "name": "Lãm Hà"
+                    },
+                    {
+                        "name": "Nam Sơn"
+                    },
+                    {
+                        "name": "Ngọc Sơn"
+                    },
+                    {
+                        "name": "Phù Liễn"
+                    },
+                    {
+                        "name": "Quán Trữ"
+                    },
+                    {
+                        "name": "Tràng Minh"
+                    },
+                    {
+                        "name": "Trần Thành Ngọ"
+                    },
+                    {
+                        "name": "Văn Đẩu"
+                    }
+                ]
+            },
+            {
+                "name": "Hải An",
+                "wards": [
+                    {
+                        "name": "Cát Bi"
+                    },
+                    {
+                        "name": "Đằng Hải"
+                    },
+                    {
+                        "name": "Đằng Lâm"
+                    },
+                    {
+                        "name": "Đông Hải 1"
+                    },
+                    {
+                        "name": "Đông Hải 2"
+                    },
+                    {
+                        "name": "Nam Hải"
+                    },
+                    {
+                        "name": "Thành Tô"
+                    },
+                    {
+                        "name": "Tràng Cát"
+                    }
+                ]
+            },
+            {
+                "name": "Ngô Quyền",
+                "wards": [
+                    {
+                        "name": "Cầu Đất"
+                    },
+                    {
+                        "name": "Cầu Tre"
+                    },
+                    {
+                        "name": "Đằng Giang"
+                    },
+                    {
+                        "name": "Đông Khê"
+                    },
+                    {
+                        "name": "Đồng Quốc Bình"
+                    },
+                    {
+                        "name": "Gia Viên"
+                    },
+                    {
+                        "name": "Lạc Viên"
+                    },
+                    {
+                        "name": "Lạch Tray"
+                    },
+                    {
+                        "name": "Lê Lợi"
+                    },
+                    {
+                        "name": "Máy Chai"
+                    },
+                    {
+                        "name": "Máy Tơ"
+                    },
+                    {
+                        "name": "Vạn Mỹ"
+                    }
+                ]
+            },
+            {
+                "name": "Hồng Bàng",
+                "wards": [
+                    {
+                        "name": "Hạ Lý"
+                    },
+                    {
+                        "name": "Hoàng Văn Thụ"
+                    },
+                    {
+                        "name": "Hùng Vương"
+                    },
+                    {
+                        "name": "Minh Khai"
+                    },
+                    {
+                        "name": "Phan Bội Châu"
+                    },
+                    {
+                        "name": "Quán Toan"
+                    },
+                    {
+                        "name": "Sở Dầu"
+                    },
+                    {
+                        "name": "Thượng Lý"
+                    },
+                    {
+                        "name": "Trại Chuối"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Thành phố Hồ Chí Minh",
+        "districts": [
+            {
+                "name": "Bình Tân",
+                "wards": [
+                    {
+                        "name": "An Lạc"
+                    },
+                    {
+                        "name": "An Lạc A"
+                    },
+                    {
+                        "name": "Bình Hưng Hòa"
+                    },
+                    {
+                        "name": "Bình Hưng Hòa A"
+                    },
+                    {
+                        "name": "Bình Hưng Hòa B"
+                    },
+                    {
+                        "name": "Bình Trị Đông"
+                    },
+                    {
+                        "name": "Bình Trị Đông A"
+                    },
+                    {
+                        "name": "Bình Trị Đông B"
+                    },
+                    {
+                        "name": "Tân Tạo"
+                    },
+                    {
+                        "name": "Tân Tạo A"
+                    }
+                ]
+            },
+            {
+                "name": "Quận 12",
+                "wards": [
+                    {
+                        "name": "An Phú Đông"
+                    },
+                    {
+                        "name": "Đông Hưng Thuận"
+                    },
+                    {
+                        "name": "Hiệp Thành"
+                    },
+                    {
+                        "name": "Tân Chánh Hiệp"
+                    },
+                    {
+                        "name": "Tân Hưng Thuận"
+                    },
+                    {
+                        "name": "Tân Thới Hiệp"
+                    },
+                    {
+                        "name": "Tân Thới Nhất"
+                    },
+                    {
+                        "name": "Thạnh Lộc"
+                    },
+                    {
+                        "name": "Thạnh Xuân"
+                    },
+                    {
+                        "name": "Thới An"
+                    },
+                    {
+                        "name": "Trung Mỹ Tây"
+                    }
+                ]
+            },
+            {
+                "name": "Quận 1",
+                "wards": [
+                    {
+                        "name": "Bến Nghé"
+                    },
+                    {
+                        "name": "Bến Thành"
+                    },
+                    {
+                        "name": "Cầu Kho"
+                    },
+                    {
+                        "name": "Cầu Ông Lãnh"
+                    },
+                    {
+                        "name": "Cô Giang"
+                    },
+                    {
+                        "name": "Đa Kao"
+                    },
+                    {
+                        "name": "Nguyễn Cư Trinh"
+                    },
+                    {
+                        "name": "Nguyễn Thái Bình"
+                    },
+                    {
+                        "name": "Phạm Ngũ Lão"
+                    },
+                    {
+                        "name": "Tân Định"
+                    }
+                ]
+            },
+            {
+                "name": "Quận 7",
+                "wards": [
+                    {
+                        "name": "Bình Thuận"
+                    },
+                    {
+                        "name": "Phú Mỹ"
+                    },
+                    {
+                        "name": "Phú Thuận"
+                    },
+                    {
+                        "name": "Tân Hưng"
+                    },
+                    {
+                        "name": "Tân Kiểng"
+                    },
+                    {
+                        "name": "Tân Phong"
+                    },
+                    {
+                        "name": "Tân Phú"
+                    },
+                    {
+                        "name": "Tân Quy"
+                    },
+                    {
+                        "name": "Tân Thuận Đông"
+                    },
+                    {
+                        "name": "Tân Thuận Tây"
+                    }
+                ]
+            },
+            {
+                "name": "Tân Phú",
+                "wards": [
+                    {
+                        "name": "Hiệp Tân"
+                    },
+                    {
+                        "name": "Hòa Thạnh"
+                    },
+                    {
+                        "name": "Phú Thạnh"
+                    },
+                    {
+                        "name": "Phú Thọ Hòa"
+                    },
+                    {
+                        "name": "Phú Trung"
+                    },
+                    {
+                        "name": "Sơn Kỳ"
+                    },
+                    {
+                        "name": "Tân Quý"
+                    },
+                    {
+                        "name": "Tân Sơn Nhì"
+                    },
+                    {
+                        "name": "Tân Thành"
+                    },
+                    {
+                        "name": "Tân Thới Hòa"
+                    },
+                    {
+                        "name": "Tây Thạnh"
+                    }
+                ]
+            },
+            {
+                "name": "Quận 3",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 10"
+                    },
+                    {
+                        "name": "Phường 11"
+                    },
+                    {
+                        "name": "Phường 12"
+                    },
+                    {
+                        "name": "Phường 13"
+                    },
+                    {
+                        "name": "Phường 14"
+                    },
+                    {
+                        "name": "Võ Thị Sáu"
+                    }
+                ]
+            },
+            {
+                "name": "Quận 4",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 10"
+                    },
+                    {
+                        "name": "Phường 13"
+                    },
+                    {
+                        "name": "Phường 14"
+                    },
+                    {
+                        "name": "Phường 15"
+                    },
+                    {
+                        "name": "Phường 16"
+                    },
+                    {
+                        "name": "Phường 18"
+                    }
+                ]
+            },
+            {
+                "name": "Quận 5",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 10"
+                    },
+                    {
+                        "name": "Phường 11"
+                    },
+                    {
+                        "name": "Phường 12"
+                    },
+                    {
+                        "name": "Phường 13"
+                    },
+                    {
+                        "name": "Phường 14"
+                    }
+                ]
+            },
+            {
+                "name": "Quận 6",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 10"
+                    },
+                    {
+                        "name": "Phường 11"
+                    },
+                    {
+                        "name": "Phường 12"
+                    },
+                    {
+                        "name": "Phường 13"
+                    },
+                    {
+                        "name": "Phường 14"
+                    }
+                ]
+            },
+            {
+                "name": "Quận 8",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 10"
+                    },
+                    {
+                        "name": "Phường 11"
+                    },
+                    {
+                        "name": "Phường 12"
+                    },
+                    {
+                        "name": "Phường 13"
+                    },
+                    {
+                        "name": "Phường 14"
+                    },
+                    {
+                        "name": "Phường 15"
+                    },
+                    {
+                        "name": "Phường 16"
+                    }
+                ]
+            },
+            {
+                "name": "Quận 10",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 10"
+                    },
+                    {
+                        "name": "Phường 11"
+                    },
+                    {
+                        "name": "Phường 12"
+                    },
+                    {
+                        "name": "Phường 13"
+                    },
+                    {
+                        "name": "Phường 14"
+                    },
+                    {
+                        "name": "Phường 15"
+                    }
+                ]
+            },
+            {
+                "name": "Quận 11",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 10"
+                    },
+                    {
+                        "name": "Phường 11"
+                    },
+                    {
+                        "name": "Phường 12"
+                    },
+                    {
+                        "name": "Phường 13"
+                    },
+                    {
+                        "name": "Phường 14"
+                    },
+                    {
+                        "name": "Phường 15"
+                    },
+                    {
+                        "name": "Phường 16"
+                    }
+                ]
+            },
+            {
+                "name": "Bình Thạnh",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 11"
+                    },
+                    {
+                        "name": "Phường 12"
+                    },
+                    {
+                        "name": "Phường 13"
+                    },
+                    {
+                        "name": "Phường 14"
+                    },
+                    {
+                        "name": "Phường 15"
+                    },
+                    {
+                        "name": "Phường 17"
+                    },
+                    {
+                        "name": "Phường 19"
+                    },
+                    {
+                        "name": "Phường 21"
+                    },
+                    {
+                        "name": "Phường 22"
+                    },
+                    {
+                        "name": "Phường 24"
+                    },
+                    {
+                        "name": "Phường 25"
+                    },
+                    {
+                        "name": "Phường 26"
+                    },
+                    {
+                        "name": "Phường 27"
+                    },
+                    {
+                        "name": "Phường 28"
+                    }
+                ]
+            },
+            {
+                "name": "Gò Vấp",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 10"
+                    },
+                    {
+                        "name": "Phường 11"
+                    },
+                    {
+                        "name": "Phường 12"
+                    },
+                    {
+                        "name": "Phường 13"
+                    },
+                    {
+                        "name": "Phường 14"
+                    },
+                    {
+                        "name": "Phường 15"
+                    },
+                    {
+                        "name": "Phường 16"
+                    },
+                    {
+                        "name": "Phường 17"
+                    }
+                ]
+            },
+            {
+                "name": "Phú Nhuận",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 10"
+                    },
+                    {
+                        "name": "Phường 11"
+                    },
+                    {
+                        "name": "Phường 13"
+                    },
+                    {
+                        "name": "Phường 15"
+                    },
+                    {
+                        "name": "Phường 17"
+                    }
+                ]
+            },
+            {
+                "name": "Tân Bình",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 10"
+                    },
+                    {
+                        "name": "Phường 11"
+                    },
+                    {
+                        "name": "Phường 12"
+                    },
+                    {
+                        "name": "Phường 13"
+                    },
+                    {
+                        "name": "Phường 14"
+                    },
+                    {
+                        "name": "Phường 15"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Thủ Đức",
+                "wards": [
+                    {
+                        "name": "An Khánh"
+                    },
+                    {
+                        "name": "An Lợi Đông"
+                    },
+                    {
+                        "name": "An Phú"
+                    },
+                    {
+                        "name": "Bình Chiểu"
+                    },
+                    {
+                        "name": "Bình Thọ"
+                    },
+                    {
+                        "name": "Bình Trưng Đông"
+                    },
+                    {
+                        "name": "Bình Trưng Tây"
+                    },
+                    {
+                        "name": "Cát Lái"
+                    },
+                    {
+                        "name": "Hiệp Bình Chánh"
+                    },
+                    {
+                        "name": "Hiệp Bình Phước"
+                    },
+                    {
+                        "name": "Hiệp Phú"
+                    },
+                    {
+                        "name": "Linh Chiểu"
+                    },
+                    {
+                        "name": "Linh Đông"
+                    },
+                    {
+                        "name": "Linh Tây"
+                    },
+                    {
+                        "name": "Linh Trung"
+                    },
+                    {
+                        "name": "Linh Xuân"
+                    },
+                    {
+                        "name": "Long Bình"
+                    },
+                    {
+                        "name": "Long Phước"
+                    },
+                    {
+                        "name": "Long Thạnh Mỹ"
+                    },
+                    {
+                        "name": "Long Trường"
+                    },
+                    {
+                        "name": "Phú Hữu"
+                    },
+                    {
+                        "name": "Phước Bình"
+                    },
+                    {
+                        "name": "Phước Long A"
+                    },
+                    {
+                        "name": "Phước Long B"
+                    },
+                    {
+                        "name": "Tam Bình"
+                    },
+                    {
+                        "name": "Tam Phú"
+                    },
+                    {
+                        "name": "Tăng Nhơn Phú A"
+                    },
+                    {
+                        "name": "Tăng Nhơn Phú B"
+                    },
+                    {
+                        "name": "Tân Phú"
+                    },
+                    {
+                        "name": "Thạnh Mỹ Lợi"
+                    },
+                    {
+                        "name": "Thảo Điền"
+                    },
+                    {
+                        "name": "Thủ Thiêm"
+                    },
+                    {
+                        "name": "Trường Thạnh"
+                    },
+                    {
+                        "name": "Trường Thọ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "An Giang",
+        "districts": [
+            {
+                "name": "Thị xã Tịnh Biên",
+                "wards": [
+                    {
+                        "name": "An Phú"
+                    },
+                    {
+                        "name": "Chi Lăng"
+                    },
+                    {
+                        "name": "Nhà Bàng"
+                    },
+                    {
+                        "name": "Nhơn Hưng"
+                    },
+                    {
+                        "name": "Núi Voi"
+                    },
+                    {
+                        "name": "Thới Sơn"
+                    },
+                    {
+                        "name": "Tịnh Biên"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Long Xuyên",
+                "wards": [
+                    {
+                        "name": "Bình Đức"
+                    },
+                    {
+                        "name": "Bình Khánh"
+                    },
+                    {
+                        "name": "Đông Xuyên"
+                    },
+                    {
+                        "name": "Mỹ Bình"
+                    },
+                    {
+                        "name": "Mỹ Hòa"
+                    },
+                    {
+                        "name": "Mỹ Long"
+                    },
+                    {
+                        "name": "Mỹ Phước"
+                    },
+                    {
+                        "name": "Mỹ Quý"
+                    },
+                    {
+                        "name": "Mỹ Thạnh"
+                    },
+                    {
+                        "name": "Mỹ Thới"
+                    },
+                    {
+                        "name": "Mỹ Xuyên"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Châu Đốc",
+                "wards": [
+                    {
+                        "name": "Châu Phú A"
+                    },
+                    {
+                        "name": "Châu Phú B"
+                    },
+                    {
+                        "name": "Núi Sam"
+                    },
+                    {
+                        "name": "Vĩnh Mỹ"
+                    },
+                    {
+                        "name": "Vĩnh Nguơn"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Tân Châu",
+                "wards": [
+                    {
+                        "name": "Long Châu"
+                    },
+                    {
+                        "name": "Long Hưng"
+                    },
+                    {
+                        "name": "Long Phú"
+                    },
+                    {
+                        "name": "Long Sơn"
+                    },
+                    {
+                        "name": "Long Thạnh"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bà Rịa – Vũng Tàu",
+        "districts": [
+            {
+                "name": "Thị xã Phú Mỹ",
+                "wards": [
+                    {
+                        "name": "Hắc Dịch"
+                    },
+                    {
+                        "name": "Mỹ Xuân"
+                    },
+                    {
+                        "name": "Phú Mỹ"
+                    },
+                    {
+                        "name": "Phước Hòa"
+                    },
+                    {
+                        "name": "Tân Phước"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Bà Rịa",
+                "wards": [
+                    {
+                        "name": "Kim Dinh"
+                    },
+                    {
+                        "name": "Long Hương"
+                    },
+                    {
+                        "name": "Long Tâm"
+                    },
+                    {
+                        "name": "Long Toàn"
+                    },
+                    {
+                        "name": "Phước Hiệp"
+                    },
+                    {
+                        "name": "Phước Hưng"
+                    },
+                    {
+                        "name": "Phước Nguyên"
+                    },
+                    {
+                        "name": "Phước Trung"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Vũng Tàu",
+                "wards": [
+                    {
+                        "name": "Nguyễn An Ninh"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 10"
+                    },
+                    {
+                        "name": "Phường 11"
+                    },
+                    {
+                        "name": "Phường 12"
+                    },
+                    {
+                        "name": "Rạch Dừa"
+                    },
+                    {
+                        "name": "Thắng Nhất"
+                    },
+                    {
+                        "name": "Thắng Nhì"
+                    },
+                    {
+                        "name": "Thắng Tam"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bạc Liêu",
+        "districts": [
+            {
+                "name": "Thị xã Giá Rai",
+                "wards": [
+                    {
+                        "name": "Hộ Phòng"
+                    },
+                    {
+                        "name": "Láng Tròn"
+                    },
+                    {
+                        "name": "Phường 1"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Bạc Liêu",
+                "wards": [
+                    {
+                        "name": "Nhà Mát"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bắc Giang",
+        "districts": [
+            {
+                "name": "Thành phố Bắc Giang",
+                "wards": [
+                    {
+                        "name": "Dĩnh Kế"
+                    },
+                    {
+                        "name": "Đa Mai"
+                    },
+                    {
+                        "name": "Hoàng Văn Thụ"
+                    },
+                    {
+                        "name": "Lê Lợi"
+                    },
+                    {
+                        "name": "Mỹ Độ"
+                    },
+                    {
+                        "name": "Ngô Quyền"
+                    },
+                    {
+                        "name": "Thọ Xương"
+                    },
+                    {
+                        "name": "Trần Nguyên Hãn"
+                    },
+                    {
+                        "name": "Trần Phú"
+                    },
+                    {
+                        "name": "Xương Giang"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bắc Kạn",
+        "districts": [
+            {
+                "name": "Thành phố Bắc Kạn",
+                "wards": [
+                    {
+                        "name": "Đức Xuân"
+                    },
+                    {
+                        "name": "Huyền Tụng"
+                    },
+                    {
+                        "name": "Nguyễn Thị Minh Khai"
+                    },
+                    {
+                        "name": "Phùng Chí Kiên"
+                    },
+                    {
+                        "name": "Sông Cầu"
+                    },
+                    {
+                        "name": "Xuất Hóa"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bắc Ninh",
+        "districts": [
+            {
+                "name": "Thị xã Thuận Thành",
+                "wards": [
+                    {
+                        "name": "An Bình"
+                    },
+                    {
+                        "name": "Gia Đông"
+                    },
+                    {
+                        "name": "Hà Mãn"
+                    },
+                    {
+                        "name": "Hồ"
+                    },
+                    {
+                        "name": "Ninh Xá"
+                    },
+                    {
+                        "name": "Song Hồ"
+                    },
+                    {
+                        "name": "Thanh Khương"
+                    },
+                    {
+                        "name": "Trạm Lộ"
+                    },
+                    {
+                        "name": "Trí Quả"
+                    },
+                    {
+                        "name": "Xuân Lâm"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Quế Võ",
+                "wards": [
+                    {
+                        "name": "Bằng An"
+                    },
+                    {
+                        "name": "Bồng Lai"
+                    },
+                    {
+                        "name": "Cách Bi"
+                    },
+                    {
+                        "name": "Đại Xuân"
+                    },
+                    {
+                        "name": "Nhân Hòa"
+                    },
+                    {
+                        "name": "Phố Mới"
+                    },
+                    {
+                        "name": "Phù Lương"
+                    },
+                    {
+                        "name": "Phương Liễu"
+                    },
+                    {
+                        "name": "Phượng Mao"
+                    },
+                    {
+                        "name": "Quế Tân"
+                    },
+                    {
+                        "name": "Việt Hùng"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Từ Sơn",
+                "wards": [
+                    {
+                        "name": "Châu Khê"
+                    },
+                    {
+                        "name": "Đình Bảng"
+                    },
+                    {
+                        "name": "Đồng Kỵ"
+                    },
+                    {
+                        "name": "Đông Ngàn"
+                    },
+                    {
+                        "name": "Đồng Nguyên"
+                    },
+                    {
+                        "name": "Hương Mạc"
+                    },
+                    {
+                        "name": "Phù Chẩn"
+                    },
+                    {
+                        "name": "Phù Khê"
+                    },
+                    {
+                        "name": "Tam Sơn"
+                    },
+                    {
+                        "name": "Tân Hồng"
+                    },
+                    {
+                        "name": "Trang Hạ"
+                    },
+                    {
+                        "name": "Tương Giang"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Bắc Ninh",
+                "wards": [
+                    {
+                        "name": "Đại Phúc"
+                    },
+                    {
+                        "name": "Đáp Cầu"
+                    },
+                    {
+                        "name": "Hạp Lĩnh"
+                    },
+                    {
+                        "name": "Hòa Long"
+                    },
+                    {
+                        "name": "Khắc Niệm"
+                    },
+                    {
+                        "name": "Khúc Xuyên"
+                    },
+                    {
+                        "name": "Kim Chân"
+                    },
+                    {
+                        "name": "Kinh Bắc"
+                    },
+                    {
+                        "name": "Nam Sơn"
+                    },
+                    {
+                        "name": "Ninh Xá"
+                    },
+                    {
+                        "name": "Phong Khê"
+                    },
+                    {
+                        "name": "Suối Hoa"
+                    },
+                    {
+                        "name": "Thị Cầu"
+                    },
+                    {
+                        "name": "Tiền An"
+                    },
+                    {
+                        "name": "Vạn An"
+                    },
+                    {
+                        "name": "Vân Dương"
+                    },
+                    {
+                        "name": "Vệ An"
+                    },
+                    {
+                        "name": "Võ Cường"
+                    },
+                    {
+                        "name": "Vũ Ninh"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bến Tre",
+        "districts": [
+            {
+                "name": "Thành phố Bến Tre",
+                "wards": [
+                    {
+                        "name": "An Hội"
+                    },
+                    {
+                        "name": "Phú Khương"
+                    },
+                    {
+                        "name": "Phú Tân"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bình Dương",
+        "districts": [
+            {
+                "name": "Thành phố Dĩ An",
+                "wards": [
+                    {
+                        "name": "An Bình"
+                    },
+                    {
+                        "name": "Bình An"
+                    },
+                    {
+                        "name": "Bình Thắng"
+                    },
+                    {
+                        "name": "Dĩ An"
+                    },
+                    {
+                        "name": "Đông Hòa"
+                    },
+                    {
+                        "name": "Tân Bình"
+                    },
+                    {
+                        "name": "Tân Đông Hiệp"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Thuận An",
+                "wards": [
+                    {
+                        "name": "An Phú"
+                    },
+                    {
+                        "name": "An Thạnh"
+                    },
+                    {
+                        "name": "Bình Chuẩn"
+                    },
+                    {
+                        "name": "Bình Hòa"
+                    },
+                    {
+                        "name": "Bình Nhâm"
+                    },
+                    {
+                        "name": "Hưng Định"
+                    },
+                    {
+                        "name": "Lái Thiêu"
+                    },
+                    {
+                        "name": "Thuận Giao"
+                    },
+                    {
+                        "name": "Vĩnh Phú"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Thủ Dầu Một",
+                "wards": [
+                    {
+                        "name": "Chánh Mỹ"
+                    },
+                    {
+                        "name": "Chánh Nghĩa"
+                    },
+                    {
+                        "name": "Định Hòa"
+                    },
+                    {
+                        "name": "Hiệp An"
+                    },
+                    {
+                        "name": "Hiệp Thành"
+                    },
+                    {
+                        "name": "Hòa Phú"
+                    },
+                    {
+                        "name": "Phú Cường"
+                    },
+                    {
+                        "name": "Phú Hòa"
+                    },
+                    {
+                        "name": "Phú Lợi"
+                    },
+                    {
+                        "name": "Phú Mỹ"
+                    },
+                    {
+                        "name": "Phú Tân"
+                    },
+                    {
+                        "name": "Phú Thọ"
+                    },
+                    {
+                        "name": "Tân An"
+                    },
+                    {
+                        "name": "Tương Bình Hiệp"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Bến Cát",
+                "wards": [
+                    {
+                        "name": "Chánh Phú Hòa"
+                    },
+                    {
+                        "name": "Hòa Lợi"
+                    },
+                    {
+                        "name": "Mỹ Phước"
+                    },
+                    {
+                        "name": "Tân Định"
+                    },
+                    {
+                        "name": "Thới Hòa"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Tân Uyên",
+                "wards": [
+                    {
+                        "name": "Hội Nghĩa"
+                    },
+                    {
+                        "name": "Khánh Bình"
+                    },
+                    {
+                        "name": "Phú Chánh"
+                    },
+                    {
+                        "name": "Tân Hiệp"
+                    },
+                    {
+                        "name": "Tân Phước Khánh"
+                    },
+                    {
+                        "name": "Tân Vĩnh Hiệp"
+                    },
+                    {
+                        "name": "Thái Hòa"
+                    },
+                    {
+                        "name": "Thạnh Phước"
+                    },
+                    {
+                        "name": "Uyên Hưng"
+                    },
+                    {
+                        "name": "Vĩnh Tân"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bình Định",
+        "districts": [
+            {
+                "name": "Thị xã An Nhơn",
+                "wards": [
+                    {
+                        "name": "Bình Định"
+                    },
+                    {
+                        "name": "Đập Đá"
+                    },
+                    {
+                        "name": "Nhơn Hòa"
+                    },
+                    {
+                        "name": "Nhơn Hưng"
+                    },
+                    {
+                        "name": "Nhơn Thành"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Hoài Nhơn",
+                "wards": [
+                    {
+                        "name": "Bồng Sơn"
+                    },
+                    {
+                        "name": "Hoài Đức"
+                    },
+                    {
+                        "name": "Hoài Hảo"
+                    },
+                    {
+                        "name": "Hoài Hương"
+                    },
+                    {
+                        "name": "Hoài Tân"
+                    },
+                    {
+                        "name": "Hoài Thanh"
+                    },
+                    {
+                        "name": "Hoài Thanh Tây"
+                    },
+                    {
+                        "name": "Hoài Xuân"
+                    },
+                    {
+                        "name": "Tam Quan"
+                    },
+                    {
+                        "name": "Tam Quan Bắc"
+                    },
+                    {
+                        "name": "Tam Quan Nam"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Quy Nhơn",
+                "wards": [
+                    {
+                        "name": "Bùi Thị Xuân"
+                    },
+                    {
+                        "name": "Đống Đa"
+                    },
+                    {
+                        "name": "Ghềnh Ráng"
+                    },
+                    {
+                        "name": "Hải Cảng"
+                    },
+                    {
+                        "name": "Lê Hồng Phong"
+                    },
+                    {
+                        "name": "Lê Lợi"
+                    },
+                    {
+                        "name": "Lý Thường Kiệt"
+                    },
+                    {
+                        "name": "Ngô Mây"
+                    },
+                    {
+                        "name": "Nguyễn Văn Cừ"
+                    },
+                    {
+                        "name": "Nhơn Bình"
+                    },
+                    {
+                        "name": "Nhơn Phú"
+                    },
+                    {
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "name": "Thị Nại"
+                    },
+                    {
+                        "name": "Trần Hưng Đạo"
+                    },
+                    {
+                        "name": "Trần Phú"
+                    },
+                    {
+                        "name": "Trần Quang Diệu"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bình Phước",
+        "districts": [
+            {
+                "name": "Thị xã Bình Long",
+                "wards": [
+                    {
+                        "name": "An Lộc"
+                    },
+                    {
+                        "name": "Hưng Chiến"
+                    },
+                    {
+                        "name": "Phú Đức"
+                    },
+                    {
+                        "name": "Phú Thịnh"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Chơn Thành",
+                "wards": [
+                    {
+                        "name": "Hưng Long"
+                    },
+                    {
+                        "name": "Minh Hưng"
+                    },
+                    {
+                        "name": "Minh Long"
+                    },
+                    {
+                        "name": "Minh Thành"
+                    },
+                    {
+                        "name": "Thành Tâm"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Phước Long",
+                "wards": [
+                    {
+                        "name": "Long Phước"
+                    },
+                    {
+                        "name": "Long Thủy"
+                    },
+                    {
+                        "name": "Phước Bình"
+                    },
+                    {
+                        "name": "Sơn Giang"
+                    },
+                    {
+                        "name": "Thác Mơ"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Đồng Xoài",
+                "wards": [
+                    {
+                        "name": "Tân Bình"
+                    },
+                    {
+                        "name": "Tân Đồng"
+                    },
+                    {
+                        "name": "Tân Phú"
+                    },
+                    {
+                        "name": "Tân Thiện"
+                    },
+                    {
+                        "name": "Tân Xuân"
+                    },
+                    {
+                        "name": "Tiến Thành"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bình Thuận",
+        "districts": [
+            {
+                "name": "Thành phố Phan Thiết",
+                "wards": [
+                    {
+                        "name": "Bình Hưng"
+                    },
+                    {
+                        "name": "Đức Long"
+                    },
+                    {
+                        "name": "Đức Nghĩa"
+                    },
+                    {
+                        "name": "Đức Thắng"
+                    },
+                    {
+                        "name": "Hàm Tiến"
+                    },
+                    {
+                        "name": "Hưng Long"
+                    },
+                    {
+                        "name": "Lạc Đạo"
+                    },
+                    {
+                        "name": "Mũi Né"
+                    },
+                    {
+                        "name": "Phú Hài"
+                    },
+                    {
+                        "name": "Phú Tài"
+                    },
+                    {
+                        "name": "Phú Thủy"
+                    },
+                    {
+                        "name": "Phú Trinh"
+                    },
+                    {
+                        "name": "Thanh Hải"
+                    },
+                    {
+                        "name": "Xuân An"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã La Gi",
+                "wards": [
+                    {
+                        "name": "Bình Tân"
+                    },
+                    {
+                        "name": "Phước Hội"
+                    },
+                    {
+                        "name": "Phước Lộc"
+                    },
+                    {
+                        "name": "Tân An"
+                    },
+                    {
+                        "name": "Tân Thiện"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Cà Mau",
+        "districts": [
+            {
+                "name": "Thành phố Cà Mau",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Tân Thành"
+                    },
+                    {
+                        "name": "Tân Xuyên"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Cao Bằng",
+        "districts": [
+            {
+                "name": "Thành phố Cao Bằng",
+                "wards": [
+                    {
+                        "name": "Duyệt Trung"
+                    },
+                    {
+                        "name": "Đề Thám"
+                    },
+                    {
+                        "name": "Hòa Chung"
+                    },
+                    {
+                        "name": "Hợp Giang"
+                    },
+                    {
+                        "name": "Ngọc Xuân"
+                    },
+                    {
+                        "name": "Sông Bằng"
+                    },
+                    {
+                        "name": "Sông Hiến"
+                    },
+                    {
+                        "name": "Tân Giang"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Đắk Lắk",
+        "districts": [
+            {
+                "name": "Thị xã Buôn Hồ",
+                "wards": [
+                    {
+                        "name": "An Bình"
+                    },
+                    {
+                        "name": "An Lạc"
+                    },
+                    {
+                        "name": "Bình Tân"
+                    },
+                    {
+                        "name": "Đạt Hiếu"
+                    },
+                    {
+                        "name": "Đoàn Kết"
+                    },
+                    {
+                        "name": "Thiện An"
+                    },
+                    {
+                        "name": "Thống Nhất"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Buôn Ma Thuột",
+                "wards": [
+                    {
+                        "name": "Ea Tam"
+                    },
+                    {
+                        "name": "Khánh Xuân"
+                    },
+                    {
+                        "name": "Tân An"
+                    },
+                    {
+                        "name": "Tân Hòa"
+                    },
+                    {
+                        "name": "Tân Lập"
+                    },
+                    {
+                        "name": "Tân Lợi"
+                    },
+                    {
+                        "name": "Tân Thành"
+                    },
+                    {
+                        "name": "Tân Tiến"
+                    },
+                    {
+                        "name": "Thành Công"
+                    },
+                    {
+                        "name": "Thành Nhất"
+                    },
+                    {
+                        "name": "Thắng Lợi"
+                    },
+                    {
+                        "name": "Thống Nhất"
+                    },
+                    {
+                        "name": "Tự An"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Đắk Nông",
+        "districts": [
+            {
+                "name": "Thành phố Gia Nghĩa",
+                "wards": [
+                    {
+                        "name": "Nghĩa Đức"
+                    },
+                    {
+                        "name": "Nghĩa Phú"
+                    },
+                    {
+                        "name": "Nghĩa Tân"
+                    },
+                    {
+                        "name": "Nghĩa Thành"
+                    },
+                    {
+                        "name": "Nghĩa Trung"
+                    },
+                    {
+                        "name": "Quảng Thành"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Điện Biên",
+        "districts": [
+            {
+                "name": "Thành phố Điện Biên Phủ",
+                "wards": [
+                    {
+                        "name": "Him Lam"
+                    },
+                    {
+                        "name": "Mường Thanh"
+                    },
+                    {
+                        "name": "Nam Thanh"
+                    },
+                    {
+                        "name": "Noong Bua"
+                    },
+                    {
+                        "name": "Tân Thanh"
+                    },
+                    {
+                        "name": "Thanh Bình"
+                    },
+                    {
+                        "name": "Thanh Trường"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Mường Lay",
+                "wards": [
+                    {
+                        "name": "Na Lay"
+                    },
+                    {
+                        "name": "Sông Đà"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Đồng Nai",
+        "districts": [
+            {
+                "name": "Thành phố Biên Hòa",
+                "wards": [
+                    {
+                        "name": "An Bình"
+                    },
+                    {
+                        "name": "An Hòa"
+                    },
+                    {
+                        "name": "Bình Đa"
+                    },
+                    {
+                        "name": "Bửu Hòa"
+                    },
+                    {
+                        "name": "Bửu Long"
+                    },
+                    {
+                        "name": "Hiệp Hòa"
+                    },
+                    {
+                        "name": "Hóa An"
+                    },
+                    {
+                        "name": "Hòa Bình"
+                    },
+                    {
+                        "name": "Hố Nai"
+                    },
+                    {
+                        "name": "Long Bình"
+                    },
+                    {
+                        "name": "Long Bình Tân"
+                    },
+                    {
+                        "name": "Phước Tân"
+                    },
+                    {
+                        "name": "Quang Vinh"
+                    },
+                    {
+                        "name": "Quyết Thắng"
+                    },
+                    {
+                        "name": "Tam Hiệp"
+                    },
+                    {
+                        "name": "Tam Hòa"
+                    },
+                    {
+                        "name": "Tam Phước"
+                    },
+                    {
+                        "name": "Tân Biên"
+                    },
+                    {
+                        "name": "Tân Hạnh"
+                    },
+                    {
+                        "name": "Tân Hiệp"
+                    },
+                    {
+                        "name": "Tân Hòa"
+                    },
+                    {
+                        "name": "Tân Mai"
+                    },
+                    {
+                        "name": "Tân Phong"
+                    },
+                    {
+                        "name": "Tân Tiến"
+                    },
+                    {
+                        "name": "Tân Vạn"
+                    },
+                    {
+                        "name": "Thanh Bình"
+                    },
+                    {
+                        "name": "Thống Nhất"
+                    },
+                    {
+                        "name": "Trảng Dài"
+                    },
+                    {
+                        "name": "Trung Dũng"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Long Khánh",
+                "wards": [
+                    {
+                        "name": "Bảo Vinh"
+                    },
+                    {
+                        "name": "Bàu Sen"
+                    },
+                    {
+                        "name": "Phú Bình"
+                    },
+                    {
+                        "name": "Suối Tre"
+                    },
+                    {
+                        "name": "Xuân An"
+                    },
+                    {
+                        "name": "Xuân Bình"
+                    },
+                    {
+                        "name": "Xuân Hòa"
+                    },
+                    {
+                        "name": "Xuân Lập"
+                    },
+                    {
+                        "name": "Xuân Tân"
+                    },
+                    {
+                        "name": "Xuân Thanh"
+                    },
+                    {
+                        "name": "Xuân Trung"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Đồng Tháp",
+        "districts": [
+            {
+                "name": "Thành phố Hồng Ngự",
+                "wards": [
+                    {
+                        "name": "An Bình A"
+                    },
+                    {
+                        "name": "An Bình B"
+                    },
+                    {
+                        "name": "An Lạc"
+                    },
+                    {
+                        "name": "An Lộc"
+                    },
+                    {
+                        "name": "An Thạnh"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Sa Đéc",
+                "wards": [
+                    {
+                        "name": "An Hòa"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Tân Quy Đông"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Cao Lãnh",
+                "wards": [
+                    {
+                        "name": "Hòa Thuận"
+                    },
+                    {
+                        "name": "Mỹ Phú"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 11"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gia Lai",
+        "districts": [
+            {
+                "name": "Thị xã An Khê",
+                "wards": [
+                    {
+                        "name": "An Bình"
+                    },
+                    {
+                        "name": "An Phú"
+                    },
+                    {
+                        "name": "An Phước"
+                    },
+                    {
+                        "name": "An Tân"
+                    },
+                    {
+                        "name": "Ngô Mây"
+                    },
+                    {
+                        "name": "Tây Sơn"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Ayun Pa",
+                "wards": [
+                    {
+                        "name": "Cheo Reo"
+                    },
+                    {
+                        "name": "Đoàn Kết"
+                    },
+                    {
+                        "name": "Hòa Bình"
+                    },
+                    {
+                        "name": "Sông Bờ"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Pleiku",
+                "wards": [
+                    {
+                        "name": "Chi Lăng"
+                    },
+                    {
+                        "name": "Diên Hồng"
+                    },
+                    {
+                        "name": "Đống Đa"
+                    },
+                    {
+                        "name": "Hoa Lư"
+                    },
+                    {
+                        "name": "Hội Phú"
+                    },
+                    {
+                        "name": "Hội Thương"
+                    },
+                    {
+                        "name": "Ia Kring"
+                    },
+                    {
+                        "name": "Phù Đổng"
+                    },
+                    {
+                        "name": "Tây Sơn"
+                    },
+                    {
+                        "name": "Thắng Lợi"
+                    },
+                    {
+                        "name": "Thống Nhất"
+                    },
+                    {
+                        "name": "Trà Bá"
+                    },
+                    {
+                        "name": "Yên Đỗ"
+                    },
+                    {
+                        "name": "Yên Thế"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hà Giang",
+        "districts": [
+            {
+                "name": "Thành phố Hà Giang",
+                "wards": [
+                    {
+                        "name": "Minh Khai"
+                    },
+                    {
+                        "name": "Ngọc Hà"
+                    },
+                    {
+                        "name": "Nguyễn Trãi"
+                    },
+                    {
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "name": "Trần Phú"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hà Nam",
+        "districts": [
+            {
+                "name": "Thị xã Duy Tiên",
+                "wards": [
+                    {
+                        "name": "Bạch Thượng"
+                    },
+                    {
+                        "name": "Châu Giang"
+                    },
+                    {
+                        "name": "Duy Hải"
+                    },
+                    {
+                        "name": "Duy Minh"
+                    },
+                    {
+                        "name": "Đồng Văn"
+                    },
+                    {
+                        "name": "Hòa Mạc"
+                    },
+                    {
+                        "name": "Hoàng Đông"
+                    },
+                    {
+                        "name": "Tiên Nội"
+                    },
+                    {
+                        "name": "Yên Bắc"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Phủ Lý",
+                "wards": [
+                    {
+                        "name": "Châu Sơn"
+                    },
+                    {
+                        "name": "Hai Bà Trưng"
+                    },
+                    {
+                        "name": "Lam Hạ"
+                    },
+                    {
+                        "name": "Lê Hồng Phong"
+                    },
+                    {
+                        "name": "Liêm Chính"
+                    },
+                    {
+                        "name": "Lương Khánh Thiện"
+                    },
+                    {
+                        "name": "Minh Khai"
+                    },
+                    {
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "name": "Thanh Châu"
+                    },
+                    {
+                        "name": "Thanh Tuyền"
+                    },
+                    {
+                        "name": "Trần Hưng Đạo"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hà Tĩnh",
+        "districts": [
+            {
+                "name": "Thành phố Hà Tĩnh",
+                "wards": [
+                    {
+                        "name": "Bắc Hà"
+                    },
+                    {
+                        "name": "Đại Nài"
+                    },
+                    {
+                        "name": "Hà Huy Tập"
+                    },
+                    {
+                        "name": "Nam Hà"
+                    },
+                    {
+                        "name": "Nguyễn Du"
+                    },
+                    {
+                        "name": "Tân Giang"
+                    },
+                    {
+                        "name": "Thạch Linh"
+                    },
+                    {
+                        "name": "Thạch Quý"
+                    },
+                    {
+                        "name": "Trần Phú"
+                    },
+                    {
+                        "name": "Văn Yên"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Hồng Lĩnh",
+                "wards": [
+                    {
+                        "name": "Bắc Hồng"
+                    },
+                    {
+                        "name": "Đậu Liêu"
+                    },
+                    {
+                        "name": "Đức Thuận"
+                    },
+                    {
+                        "name": "Nam Hồng"
+                    },
+                    {
+                        "name": "Trung Lương"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Kỳ Anh",
+                "wards": [
+                    {
+                        "name": "Hưng Trí"
+                    },
+                    {
+                        "name": "Kỳ Liên"
+                    },
+                    {
+                        "name": "Kỳ Long"
+                    },
+                    {
+                        "name": "Kỳ Phương"
+                    },
+                    {
+                        "name": "Kỳ Thịnh"
+                    },
+                    {
+                        "name": "Kỳ Trinh"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hải Dương",
+        "districts": [
+            {
+                "name": "Thành phố Hải Dương",
+                "wards": [
+                    {
+                        "name": "Ái Quốc"
+                    },
+                    {
+                        "name": "Bình Hàn"
+                    },
+                    {
+                        "name": "Cẩm Thượng"
+                    },
+                    {
+                        "name": "Hải Tân"
+                    },
+                    {
+                        "name": "Lê Thanh Nghị"
+                    },
+                    {
+                        "name": "Nam Đồng"
+                    },
+                    {
+                        "name": "Ngọc Châu"
+                    },
+                    {
+                        "name": "Nguyễn Trãi"
+                    },
+                    {
+                        "name": "Nhị Châu"
+                    },
+                    {
+                        "name": "Phạm Ngũ Lão"
+                    },
+                    {
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "name": "Tân Bình"
+                    },
+                    {
+                        "name": "Tân Hưng"
+                    },
+                    {
+                        "name": "Thạch Khôi"
+                    },
+                    {
+                        "name": "Thanh Bình"
+                    },
+                    {
+                        "name": "Trần Hưng Đạo"
+                    },
+                    {
+                        "name": "Trần Phú"
+                    },
+                    {
+                        "name": "Tứ Minh"
+                    },
+                    {
+                        "name": "Việt Hòa"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Chí Linh",
+                "wards": [
+                    {
+                        "name": "An Lạc"
+                    },
+                    {
+                        "name": "Bến Tắm"
+                    },
+                    {
+                        "name": "Chí Minh"
+                    },
+                    {
+                        "name": "Cổ Thành"
+                    },
+                    {
+                        "name": "Cộng Hòa"
+                    },
+                    {
+                        "name": "Đồng Lạc"
+                    },
+                    {
+                        "name": "Hoàng Tân"
+                    },
+                    {
+                        "name": "Hoàng Tiến"
+                    },
+                    {
+                        "name": "Phả Lại"
+                    },
+                    {
+                        "name": "Sao Đỏ"
+                    },
+                    {
+                        "name": "Tân Dân"
+                    },
+                    {
+                        "name": "Thái Học"
+                    },
+                    {
+                        "name": "Văn An"
+                    },
+                    {
+                        "name": "Văn Đức"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Kinh Môn",
+                "wards": [
+                    {
+                        "name": "An Lưu"
+                    },
+                    {
+                        "name": "An Phụ"
+                    },
+                    {
+                        "name": "An Sinh"
+                    },
+                    {
+                        "name": "Duy Tân"
+                    },
+                    {
+                        "name": "Hiến Thành"
+                    },
+                    {
+                        "name": "Hiệp An"
+                    },
+                    {
+                        "name": "Hiệp Sơn"
+                    },
+                    {
+                        "name": "Long Xuyên"
+                    },
+                    {
+                        "name": "Minh Tân"
+                    },
+                    {
+                        "name": "Phạm Thái"
+                    },
+                    {
+                        "name": "Phú Thứ"
+                    },
+                    {
+                        "name": "Tân Dân"
+                    },
+                    {
+                        "name": "Thái Thịnh"
+                    },
+                    {
+                        "name": "Thất Hùng"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hậu Giang",
+        "districts": [
+            {
+                "name": "Thị xã Long Mỹ",
+                "wards": [
+                    {
+                        "name": "Bình Thạnh"
+                    },
+                    {
+                        "name": "Thuận An"
+                    },
+                    {
+                        "name": "Trà Lồng"
+                    },
+                    {
+                        "name": "Vĩnh Tường"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Ngã Bảy",
+                "wards": [
+                    {
+                        "name": "Hiệp Lợi"
+                    },
+                    {
+                        "name": "Hiệp Thành"
+                    },
+                    {
+                        "name": "Lái Hiếu"
+                    },
+                    {
+                        "name": "Ngã Bảy"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Vị Thanh",
+                "wards": [
+                    {
+                        "name": "Phường I"
+                    },
+                    {
+                        "name": "Phường III"
+                    },
+                    {
+                        "name": "Phường IV"
+                    },
+                    {
+                        "name": "Phường V"
+                    },
+                    {
+                        "name": "Phường VII"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hòa Bình",
+        "districts": [
+            {
+                "name": "Thành phố Hòa Bình",
+                "wards": [
+                    {
+                        "name": "Dân Chủ"
+                    },
+                    {
+                        "name": "Đồng Tiến"
+                    },
+                    {
+                        "name": "Hữu Nghị"
+                    },
+                    {
+                        "name": "Kỳ Sơn"
+                    },
+                    {
+                        "name": "Phương Lâm"
+                    },
+                    {
+                        "name": "Quỳnh Lâm"
+                    },
+                    {
+                        "name": "Tân Hòa"
+                    },
+                    {
+                        "name": "Tân Thịnh"
+                    },
+                    {
+                        "name": "Thái Bình"
+                    },
+                    {
+                        "name": "Thịnh Lang"
+                    },
+                    {
+                        "name": "Thống Nhất"
+                    },
+                    {
+                        "name": "Trung Minh"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hưng Yên",
+        "districts": [
+            {
+                "name": "Thành phố Hưng Yên",
+                "wards": [
+                    {
+                        "name": "An Tảo"
+                    },
+                    {
+                        "name": "Hiến Nam"
+                    },
+                    {
+                        "name": "Hồng Châu"
+                    },
+                    {
+                        "name": "Lam Sơn"
+                    },
+                    {
+                        "name": "Lê Lợi"
+                    },
+                    {
+                        "name": "Minh Khai"
+                    },
+                    {
+                        "name": "Quang Trung"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Mỹ Hào",
+                "wards": [
+                    {
+                        "name": "Bạch Sam"
+                    },
+                    {
+                        "name": "Bần Yên Nhân"
+                    },
+                    {
+                        "name": "Dị Sử"
+                    },
+                    {
+                        "name": "Minh Đức"
+                    },
+                    {
+                        "name": "Nhân Hòa"
+                    },
+                    {
+                        "name": "Phan Đình Phùng"
+                    },
+                    {
+                        "name": "Phùng Chí Kiên"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Khánh Hòa",
+        "districts": [
+            {
+                "name": "Thành phố Cam Ranh",
+                "wards": [
+                    {
+                        "name": "Ba Ngòi"
+                    },
+                    {
+                        "name": "Cam Linh"
+                    },
+                    {
+                        "name": "Cam Lộc"
+                    },
+                    {
+                        "name": "Cam Lợi"
+                    },
+                    {
+                        "name": "Cam Nghĩa"
+                    },
+                    {
+                        "name": "Cam Phú"
+                    },
+                    {
+                        "name": "Cam Phúc Bắc"
+                    },
+                    {
+                        "name": "Cam Phúc Nam"
+                    },
+                    {
+                        "name": "Cam Thuận"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Nha Trang",
+                "wards": [
+                    {
+                        "name": "Lộc Thọ"
+                    },
+                    {
+                        "name": "Ngọc Hiệp"
+                    },
+                    {
+                        "name": "Phước Hải"
+                    },
+                    {
+                        "name": "Phước Hòa"
+                    },
+                    {
+                        "name": "Phước Long"
+                    },
+                    {
+                        "name": "Phước Tân"
+                    },
+                    {
+                        "name": "Phước Tiến"
+                    },
+                    {
+                        "name": "Phương Sài"
+                    },
+                    {
+                        "name": "Phương Sơn"
+                    },
+                    {
+                        "name": "Tân Lập"
+                    },
+                    {
+                        "name": "Vạn Thạnh"
+                    },
+                    {
+                        "name": "Vạn Thắng"
+                    },
+                    {
+                        "name": "Vĩnh Hải"
+                    },
+                    {
+                        "name": "Vĩnh Hòa"
+                    },
+                    {
+                        "name": "Vĩnh Nguyên"
+                    },
+                    {
+                        "name": "Vĩnh Phước"
+                    },
+                    {
+                        "name": "Vĩnh Thọ"
+                    },
+                    {
+                        "name": "Vĩnh Trường"
+                    },
+                    {
+                        "name": "Xương Huân"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Ninh Hòa",
+                "wards": [
+                    {
+                        "name": "Ninh Diêm"
+                    },
+                    {
+                        "name": "Ninh Đa"
+                    },
+                    {
+                        "name": "Ninh Giang"
+                    },
+                    {
+                        "name": "Ninh Hà"
+                    },
+                    {
+                        "name": "Ninh Hải"
+                    },
+                    {
+                        "name": "Ninh Hiệp"
+                    },
+                    {
+                        "name": "Ninh Thủy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kiên Giang",
+        "districts": [
+            {
+                "name": "Thành phố Rạch Giá",
+                "wards": [
+                    {
+                        "name": "An Bình"
+                    },
+                    {
+                        "name": "An Hòa"
+                    },
+                    {
+                        "name": "Rạch Sỏi"
+                    },
+                    {
+                        "name": "Vĩnh Bảo"
+                    },
+                    {
+                        "name": "Vĩnh Hiệp"
+                    },
+                    {
+                        "name": "Vĩnh Lạc"
+                    },
+                    {
+                        "name": "Vĩnh Lợi"
+                    },
+                    {
+                        "name": "Vĩnh Quang"
+                    },
+                    {
+                        "name": "Vĩnh Thanh"
+                    },
+                    {
+                        "name": "Vĩnh Thanh Vân"
+                    },
+                    {
+                        "name": "Vĩnh Thông"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Phú Quốc",
+                "wards": [
+                    {
+                        "name": "An Thới"
+                    },
+                    {
+                        "name": "Dương Đông"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Hà Tiên",
+                "wards": [
+                    {
+                        "name": "Bình San"
+                    },
+                    {
+                        "name": "Đông Hồ"
+                    },
+                    {
+                        "name": "Mỹ Đức"
+                    },
+                    {
+                        "name": "Pháo Đài"
+                    },
+                    {
+                        "name": "Tô Châu"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kon Tum",
+        "districts": [
+            {
+                "name": "Thành phố Kon Tum",
+                "wards": [
+                    {
+                        "name": "Duy Tân"
+                    },
+                    {
+                        "name": "Lê Lợi"
+                    },
+                    {
+                        "name": "Ngô Mây"
+                    },
+                    {
+                        "name": "Nguyễn Trãi"
+                    },
+                    {
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "name": "Quyết Thắng"
+                    },
+                    {
+                        "name": "Thắng Lợi"
+                    },
+                    {
+                        "name": "Thống Nhất"
+                    },
+                    {
+                        "name": "Trần Hưng Đạo"
+                    },
+                    {
+                        "name": "Trường Chinh"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lai Châu",
+        "districts": [
+            {
+                "name": "Thành phố Lai Châu",
+                "wards": [
+                    {
+                        "name": "Đoàn Kết"
+                    },
+                    {
+                        "name": "Đông Phong"
+                    },
+                    {
+                        "name": "Quyết Thắng"
+                    },
+                    {
+                        "name": "Quyết Tiến"
+                    },
+                    {
+                        "name": "Tân Phong"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lạng Sơn",
+        "districts": [
+            {
+                "name": "Thành phố Lạng Sơn",
+                "wards": [
+                    {
+                        "name": "Chi Lăng"
+                    },
+                    {
+                        "name": "Đông Kinh"
+                    },
+                    {
+                        "name": "Hoàng Văn Thụ"
+                    },
+                    {
+                        "name": "Tam Thanh"
+                    },
+                    {
+                        "name": "Vĩnh Trại"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lào Cai",
+        "districts": [
+            {
+                "name": "Thành phố Lào Cai",
+                "wards": [
+                    {
+                        "name": "Bắc Cường"
+                    },
+                    {
+                        "name": "Bắc Lệnh"
+                    },
+                    {
+                        "name": "Bình Minh"
+                    },
+                    {
+                        "name": "Cốc Lếu"
+                    },
+                    {
+                        "name": "Duyên Hải"
+                    },
+                    {
+                        "name": "Kim Tân"
+                    },
+                    {
+                        "name": "Lào Cai"
+                    },
+                    {
+                        "name": "Nam Cường"
+                    },
+                    {
+                        "name": "Pom Hán"
+                    },
+                    {
+                        "name": "Xuân Tăng"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Sa Pa",
+                "wards": [
+                    {
+                        "name": "Cầu Mây"
+                    },
+                    {
+                        "name": "Hàm Rồng"
+                    },
+                    {
+                        "name": "Ô Quý Hồ"
+                    },
+                    {
+                        "name": "Phan Si Păng"
+                    },
+                    {
+                        "name": "Sa Pa"
+                    },
+                    {
+                        "name": "Sa Pả"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lâm Đồng",
+        "districts": [
+            {
+                "name": "Thành phố Bảo Lộc",
+                "wards": [
+                    {
+                        "name": "B'Lao"
+                    },
+                    {
+                        "name": "Lộc Phát"
+                    },
+                    {
+                        "name": "Lộc Sơn"
+                    },
+                    {
+                        "name": "Lộc Tiến"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Đà Lạt",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 10"
+                    },
+                    {
+                        "name": "Phường 11"
+                    },
+                    {
+                        "name": "Phường 12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Long An",
+        "districts": [
+            {
+                "name": "Thành phố Tân An",
+                "wards": [
+                    {
+                        "name": "Khánh Hậu"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Tân Khánh"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Kiến Tường",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nam Định",
+        "districts": [
+            {
+                "name": "Thành phố Nam Định",
+                "wards": [
+                    {
+                        "name": "Bà Triệu"
+                    },
+                    {
+                        "name": "Cửa Bắc"
+                    },
+                    {
+                        "name": "Cửa Nam"
+                    },
+                    {
+                        "name": "Hạ Long"
+                    },
+                    {
+                        "name": "Lộc Hạ"
+                    },
+                    {
+                        "name": "Lộc Hòa"
+                    },
+                    {
+                        "name": "Lộc Vượng"
+                    },
+                    {
+                        "name": "Mỹ Xá"
+                    },
+                    {
+                        "name": "Năng Tĩnh"
+                    },
+                    {
+                        "name": "Ngô Quyền"
+                    },
+                    {
+                        "name": "Nguyễn Du"
+                    },
+                    {
+                        "name": "Phan Đình Phùng"
+                    },
+                    {
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "name": "Thống Nhất"
+                    },
+                    {
+                        "name": "Trần Đăng Ninh"
+                    },
+                    {
+                        "name": "Trần Hưng Đạo"
+                    },
+                    {
+                        "name": "Trần Quang Khải"
+                    },
+                    {
+                        "name": "Trần Tế Xương"
+                    },
+                    {
+                        "name": "Trường Thi"
+                    },
+                    {
+                        "name": "Văn Miếu"
+                    },
+                    {
+                        "name": "Vị Hoàng"
+                    },
+                    {
+                        "name": "Vị Xuyên"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nghệ An",
+        "districts": [
+            {
+                "name": "Thành phố Vinh",
+                "wards": [
+                    {
+                        "name": "Bến Thủy"
+                    },
+                    {
+                        "name": "Cửa Nam"
+                    },
+                    {
+                        "name": "Đội Cung"
+                    },
+                    {
+                        "name": "Đông Vĩnh"
+                    },
+                    {
+                        "name": "Hà Huy Tập"
+                    },
+                    {
+                        "name": "Hồng Sơn"
+                    },
+                    {
+                        "name": "Hưng Bình"
+                    },
+                    {
+                        "name": "Hưng Dũng"
+                    },
+                    {
+                        "name": "Hưng Phúc"
+                    },
+                    {
+                        "name": "Lê Lợi"
+                    },
+                    {
+                        "name": "Lê Mao"
+                    },
+                    {
+                        "name": "Quán Bàu"
+                    },
+                    {
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "name": "Trung Đô"
+                    },
+                    {
+                        "name": "Trường Thi"
+                    },
+                    {
+                        "name": "Vinh Tân"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Thái Hòa",
+                "wards": [
+                    {
+                        "name": "Hòa Hiếu"
+                    },
+                    {
+                        "name": "Long Sơn"
+                    },
+                    {
+                        "name": "Quang Phong"
+                    },
+                    {
+                        "name": "Quang Tiến"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Hoàng Mai",
+                "wards": [
+                    {
+                        "name": "Mai Hùng"
+                    },
+                    {
+                        "name": "Quỳnh Dị"
+                    },
+                    {
+                        "name": "Quỳnh Phương"
+                    },
+                    {
+                        "name": "Quỳnh Thiện"
+                    },
+                    {
+                        "name": "Quỳnh Xuân"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Cửa Lò",
+                "wards": [
+                    {
+                        "name": "Nghi Hải"
+                    },
+                    {
+                        "name": "Nghi Hòa"
+                    },
+                    {
+                        "name": "Nghi Hương"
+                    },
+                    {
+                        "name": "Nghi Tân"
+                    },
+                    {
+                        "name": "Nghi Thu"
+                    },
+                    {
+                        "name": "Nghi Thủy"
+                    },
+                    {
+                        "name": "Thu Thủy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ninh Bình",
+        "districts": [
+            {
+                "name": "Thành phố Tam Điệp",
+                "wards": [
+                    {
+                        "name": "Bắc Sơn"
+                    },
+                    {
+                        "name": "Nam Sơn"
+                    },
+                    {
+                        "name": "Tân Bình"
+                    },
+                    {
+                        "name": "Tây Sơn"
+                    },
+                    {
+                        "name": "Trung Sơn"
+                    },
+                    {
+                        "name": "Yên Bình"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Ninh Bình",
+                "wards": [
+                    {
+                        "name": "Bích Đào"
+                    },
+                    {
+                        "name": "Đông Thành"
+                    },
+                    {
+                        "name": "Nam Bình"
+                    },
+                    {
+                        "name": "Nam Thành"
+                    },
+                    {
+                        "name": "Ninh Khánh"
+                    },
+                    {
+                        "name": "Ninh Phong"
+                    },
+                    {
+                        "name": "Ninh Sơn"
+                    },
+                    {
+                        "name": "Phúc Thành"
+                    },
+                    {
+                        "name": "Tân Thành"
+                    },
+                    {
+                        "name": "Thanh Bình"
+                    },
+                    {
+                        "name": "Vân Giang"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ninh Thuận",
+        "districts": [
+            {
+                "name": "Thành phố Phan Rang – Tháp Chàm",
+                "wards": [
+                    {
+                        "name": "Bảo An"
+                    },
+                    {
+                        "name": "Đài Sơn"
+                    },
+                    {
+                        "name": "Đạo Long"
+                    },
+                    {
+                        "name": "Đô Vinh"
+                    },
+                    {
+                        "name": "Đông Hải"
+                    },
+                    {
+                        "name": "Kinh Dinh"
+                    },
+                    {
+                        "name": "Mỹ Bình"
+                    },
+                    {
+                        "name": "Mỹ Đông"
+                    },
+                    {
+                        "name": "Mỹ Hải"
+                    },
+                    {
+                        "name": "Mỹ Hương"
+                    },
+                    {
+                        "name": "Phủ Hà"
+                    },
+                    {
+                        "name": "Phước Mỹ"
+                    },
+                    {
+                        "name": "Tấn Tài"
+                    },
+                    {
+                        "name": "Thanh Sơn"
+                    },
+                    {
+                        "name": "Văn Hải"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Phú Thọ",
+        "districts": [
+            {
+                "name": "Thị xã Phú Thọ",
+                "wards": [
+                    {
+                        "name": "Âu Cơ"
+                    },
+                    {
+                        "name": "Hùng Vương"
+                    },
+                    {
+                        "name": "Phong Châu"
+                    },
+                    {
+                        "name": "Thanh Vinh"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Việt Trì",
+                "wards": [
+                    {
+                        "name": "Bạch Hạc"
+                    },
+                    {
+                        "name": "Bến Gót"
+                    },
+                    {
+                        "name": "Dữu Lâu"
+                    },
+                    {
+                        "name": "Gia Cẩm"
+                    },
+                    {
+                        "name": "Minh Nông"
+                    },
+                    {
+                        "name": "Minh Phương"
+                    },
+                    {
+                        "name": "Nông Trang"
+                    },
+                    {
+                        "name": "Tân Dân"
+                    },
+                    {
+                        "name": "Thanh Miếu"
+                    },
+                    {
+                        "name": "Thọ Sơn"
+                    },
+                    {
+                        "name": "Tiên Cát"
+                    },
+                    {
+                        "name": "Vân Cơ"
+                    },
+                    {
+                        "name": "Vân Phú"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Phú Yên",
+        "districts": [
+            {
+                "name": "Thị xã Đông Hòa",
+                "wards": [
+                    {
+                        "name": "Hòa Hiệp Bắc"
+                    },
+                    {
+                        "name": "Hòa Hiệp Nam"
+                    },
+                    {
+                        "name": "Hòa Hiệp Trung"
+                    },
+                    {
+                        "name": "Hòa Vinh"
+                    },
+                    {
+                        "name": "Hòa Xuân Tây"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Tuy Hòa",
+                "wards": [
+                    {
+                        "name": "Phú Đông"
+                    },
+                    {
+                        "name": "Phú Lâm"
+                    },
+                    {
+                        "name": "Phú Thạnh"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Sông Cầu",
+                "wards": [
+                    {
+                        "name": "Xuân Đài"
+                    },
+                    {
+                        "name": "Xuân Phú"
+                    },
+                    {
+                        "name": "Xuân Thành"
+                    },
+                    {
+                        "name": "Xuân Yên"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Quảng Bình",
+        "districts": [
+            {
+                "name": "Thị xã Ba Đồn",
+                "wards": [
+                    {
+                        "name": "Ba Đồn"
+                    },
+                    {
+                        "name": "Quảng Long"
+                    },
+                    {
+                        "name": "Quảng Phong"
+                    },
+                    {
+                        "name": "Quảng Phúc"
+                    },
+                    {
+                        "name": "Quảng Thọ"
+                    },
+                    {
+                        "name": "Quảng Thuận"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Đồng Hới",
+                "wards": [
+                    {
+                        "name": "Bắc Lý"
+                    },
+                    {
+                        "name": "Bắc Nghĩa"
+                    },
+                    {
+                        "name": "Đồng Hải"
+                    },
+                    {
+                        "name": "Đồng Phú"
+                    },
+                    {
+                        "name": "Đồng Sơn"
+                    },
+                    {
+                        "name": "Đức Ninh Đông"
+                    },
+                    {
+                        "name": "Hải Thành"
+                    },
+                    {
+                        "name": "Nam Lý"
+                    },
+                    {
+                        "name": "Phú Hải"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Quảng Nam",
+        "districts": [
+            {
+                "name": "Thành phố Tam Kỳ",
+                "wards": [
+                    {
+                        "name": "An Mỹ"
+                    },
+                    {
+                        "name": "An Phú"
+                    },
+                    {
+                        "name": "An Sơn"
+                    },
+                    {
+                        "name": "An Xuân"
+                    },
+                    {
+                        "name": "Hòa Hương"
+                    },
+                    {
+                        "name": "Hòa Thuận"
+                    },
+                    {
+                        "name": "Phước Hòa"
+                    },
+                    {
+                        "name": "Tân Thạnh"
+                    },
+                    {
+                        "name": "Trường Xuân"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Hội An",
+                "wards": [
+                    {
+                        "name": "Cẩm An"
+                    },
+                    {
+                        "name": "Cẩm Châu"
+                    },
+                    {
+                        "name": "Cẩm Nam"
+                    },
+                    {
+                        "name": "Cẩm Phô"
+                    },
+                    {
+                        "name": "Cửa Đại"
+                    },
+                    {
+                        "name": "Minh An"
+                    },
+                    {
+                        "name": "Sơn Phong"
+                    },
+                    {
+                        "name": "Tân An"
+                    },
+                    {
+                        "name": "Thanh Hà"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Điện Bàn",
+                "wards": [
+                    {
+                        "name": "Điện An"
+                    },
+                    {
+                        "name": "Điện Dương"
+                    },
+                    {
+                        "name": "Điện Minh"
+                    },
+                    {
+                        "name": "Điện Nam Bắc"
+                    },
+                    {
+                        "name": "Điện Nam Đông"
+                    },
+                    {
+                        "name": "Điện Nam Trung"
+                    },
+                    {
+                        "name": "Điện Ngọc"
+                    },
+                    {
+                        "name": "Điện Phương"
+                    },
+                    {
+                        "name": "Điện Thắng Bắc"
+                    },
+                    {
+                        "name": "Điện Thắng Nam"
+                    },
+                    {
+                        "name": "Điện Thắng Trung"
+                    },
+                    {
+                        "name": "Vĩnh Điện"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Quảng Ngãi",
+        "districts": [
+            {
+                "name": "Thành phố Quảng Ngãi",
+                "wards": [
+                    {
+                        "name": "Chánh Lộ"
+                    },
+                    {
+                        "name": "Lê Hồng Phong"
+                    },
+                    {
+                        "name": "Nghĩa Chánh"
+                    },
+                    {
+                        "name": "Nghĩa Lộ"
+                    },
+                    {
+                        "name": "Nguyễn Nghiêm"
+                    },
+                    {
+                        "name": "Quảng Phú"
+                    },
+                    {
+                        "name": "Trần Hưng Đạo"
+                    },
+                    {
+                        "name": "Trần Phú"
+                    },
+                    {
+                        "name": "Trương Quang Trọng"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Đức Phổ",
+                "wards": [
+                    {
+                        "name": "Nguyễn Nghiêm"
+                    },
+                    {
+                        "name": "Phổ Hòa"
+                    },
+                    {
+                        "name": "Phổ Minh"
+                    },
+                    {
+                        "name": "Phổ Ninh"
+                    },
+                    {
+                        "name": "Phổ Quang"
+                    },
+                    {
+                        "name": "Phổ Thạnh"
+                    },
+                    {
+                        "name": "Phổ Văn"
+                    },
+                    {
+                        "name": "Phổ Vinh"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Quảng Ninh",
+        "districts": [
+            {
+                "name": "Thành phố Hạ Long",
+                "wards": [
+                    {
+                        "name": "Bạch Đằng"
+                    },
+                    {
+                        "name": "Bãi Cháy"
+                    },
+                    {
+                        "name": "Cao Thắng"
+                    },
+                    {
+                        "name": "Cao Xanh"
+                    },
+                    {
+                        "name": "Đại Yên"
+                    },
+                    {
+                        "name": "Giếng Đáy"
+                    },
+                    {
+                        "name": "Hà Khánh"
+                    },
+                    {
+                        "name": "Hà Khẩu"
+                    },
+                    {
+                        "name": "Hà Lầm"
+                    },
+                    {
+                        "name": "Hà Phong"
+                    },
+                    {
+                        "name": "Hà Trung"
+                    },
+                    {
+                        "name": "Hà Tu"
+                    },
+                    {
+                        "name": "Hoành Bồ"
+                    },
+                    {
+                        "name": "Hồng Gai"
+                    },
+                    {
+                        "name": "Hồng Hà"
+                    },
+                    {
+                        "name": "Hồng Hải"
+                    },
+                    {
+                        "name": "Hùng Thắng"
+                    },
+                    {
+                        "name": "Trần Hưng Đạo"
+                    },
+                    {
+                        "name": "Tuần Châu"
+                    },
+                    {
+                        "name": "Việt Hưng"
+                    },
+                    {
+                        "name": "Yết Kiêu"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Uông Bí",
+                "wards": [
+                    {
+                        "name": "Bắc Sơn"
+                    },
+                    {
+                        "name": "Nam Khê"
+                    },
+                    {
+                        "name": "Phương Đông"
+                    },
+                    {
+                        "name": "Phương Nam"
+                    },
+                    {
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "name": "Thanh Sơn"
+                    },
+                    {
+                        "name": "Trưng Vương"
+                    },
+                    {
+                        "name": "Vàng Danh"
+                    },
+                    {
+                        "name": "Yên Thanh"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Móng Cái",
+                "wards": [
+                    {
+                        "name": "Bình Ngọc"
+                    },
+                    {
+                        "name": "Hải Hòa"
+                    },
+                    {
+                        "name": "Hải Yên"
+                    },
+                    {
+                        "name": "Hòa Lạc"
+                    },
+                    {
+                        "name": "Ka Long"
+                    },
+                    {
+                        "name": "Ninh Dương"
+                    },
+                    {
+                        "name": "Trà Cổ"
+                    },
+                    {
+                        "name": "Trần Phú"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Cẩm Phả",
+                "wards": [
+                    {
+                        "name": "Cẩm Bình"
+                    },
+                    {
+                        "name": "Cẩm Đông"
+                    },
+                    {
+                        "name": "Cẩm Phú"
+                    },
+                    {
+                        "name": "Cẩm Sơn"
+                    },
+                    {
+                        "name": "Cẩm Tây"
+                    },
+                    {
+                        "name": "Cẩm Thạch"
+                    },
+                    {
+                        "name": "Cẩm Thành"
+                    },
+                    {
+                        "name": "Cẩm Thịnh"
+                    },
+                    {
+                        "name": "Cẩm Thủy"
+                    },
+                    {
+                        "name": "Cẩm Trung"
+                    },
+                    {
+                        "name": "Cửa Ông"
+                    },
+                    {
+                        "name": "Mông Dương"
+                    },
+                    {
+                        "name": "Quang Hanh"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Quảng Yên",
+                "wards": [
+                    {
+                        "name": "Cộng Hòa"
+                    },
+                    {
+                        "name": "Đông Mai"
+                    },
+                    {
+                        "name": "Hà An"
+                    },
+                    {
+                        "name": "Minh Thành"
+                    },
+                    {
+                        "name": "Nam Hòa"
+                    },
+                    {
+                        "name": "Phong Cốc"
+                    },
+                    {
+                        "name": "Phong Hải"
+                    },
+                    {
+                        "name": "Quảng Yên"
+                    },
+                    {
+                        "name": "Tân An"
+                    },
+                    {
+                        "name": "Yên Giang"
+                    },
+                    {
+                        "name": "Yên Hải"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Đông Triều",
+                "wards": [
+                    {
+                        "name": "Đông Triều"
+                    },
+                    {
+                        "name": "Đức Chính"
+                    },
+                    {
+                        "name": "Hoàng Quế"
+                    },
+                    {
+                        "name": "Hồng Phong"
+                    },
+                    {
+                        "name": "Hưng Đạo"
+                    },
+                    {
+                        "name": "Kim Sơn"
+                    },
+                    {
+                        "name": "Mạo Khê"
+                    },
+                    {
+                        "name": "Tràng An"
+                    },
+                    {
+                        "name": "Xuân Sơn"
+                    },
+                    {
+                        "name": "Yên Thọ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Quảng Trị",
+        "districts": [
+            {
+                "name": "Thị xã Quảng Trị",
+                "wards": [
+                    {
+                        "name": "An Đôn"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Đông Hà",
+                "wards": [
+                    {
+                        "name": "Đông Giang"
+                    },
+                    {
+                        "name": "Đông Lễ"
+                    },
+                    {
+                        "name": "Đông Lương"
+                    },
+                    {
+                        "name": "Đông Thanh"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sóc Trăng",
+        "districts": [
+            {
+                "name": "Thị xã Vĩnh Châu",
+                "wards": [
+                    {
+                        "name": "Khánh Hòa"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Vĩnh Phước"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Sóc Trăng",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 10"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Ngã Năm",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sơn La",
+        "districts": [
+            {
+                "name": "Thành phố Sơn La",
+                "wards": [
+                    {
+                        "name": "Chiềng An"
+                    },
+                    {
+                        "name": "Chiềng Cơi"
+                    },
+                    {
+                        "name": "Chiềng Lề"
+                    },
+                    {
+                        "name": "Chiềng Sinh"
+                    },
+                    {
+                        "name": "Quyết Tâm"
+                    },
+                    {
+                        "name": "Quyết Thắng"
+                    },
+                    {
+                        "name": "Tô Hiệu"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tây Ninh",
+        "districts": [
+            {
+                "name": "Thị xã Trảng Bàng",
+                "wards": [
+                    {
+                        "name": "An Hòa"
+                    },
+                    {
+                        "name": "An Tịnh"
+                    },
+                    {
+                        "name": "Gia Bình"
+                    },
+                    {
+                        "name": "Gia Lộc"
+                    },
+                    {
+                        "name": "Lộc Hưng"
+                    },
+                    {
+                        "name": "Trảng Bàng"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Tây Ninh",
+                "wards": [
+                    {
+                        "name": "Hiệp Ninh"
+                    },
+                    {
+                        "name": "Ninh Sơn"
+                    },
+                    {
+                        "name": "Ninh Thạnh"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường IV"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Hòa Thành",
+                "wards": [
+                    {
+                        "name": "Hiệp Tân"
+                    },
+                    {
+                        "name": "Long Hoa"
+                    },
+                    {
+                        "name": "Long Thành Bắc"
+                    },
+                    {
+                        "name": "Long Thành Trung"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Thái Bình",
+        "districts": [
+            {
+                "name": "Thành phố Thái Bình",
+                "wards": [
+                    {
+                        "name": "Bồ Xuyên"
+                    },
+                    {
+                        "name": "Đề Thám"
+                    },
+                    {
+                        "name": "Hoàng Diệu"
+                    },
+                    {
+                        "name": "Kỳ Bá"
+                    },
+                    {
+                        "name": "Lê Hồng Phong"
+                    },
+                    {
+                        "name": "Phú Khánh"
+                    },
+                    {
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "name": "Tiền Phong"
+                    },
+                    {
+                        "name": "Trần Hưng Đạo"
+                    },
+                    {
+                        "name": "Trần Lãm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Thái Nguyên",
+        "districts": [
+            {
+                "name": "Thành phố Phổ Yên",
+                "wards": [
+                    {
+                        "name": "Ba Hàng"
+                    },
+                    {
+                        "name": "Bãi Bông"
+                    },
+                    {
+                        "name": "Bắc Sơn"
+                    },
+                    {
+                        "name": "Đắc Sơn"
+                    },
+                    {
+                        "name": "Đông Cao"
+                    },
+                    {
+                        "name": "Đồng Tiến"
+                    },
+                    {
+                        "name": "Hồng Tiến"
+                    },
+                    {
+                        "name": "Nam Tiến"
+                    },
+                    {
+                        "name": "Tân Hương"
+                    },
+                    {
+                        "name": "Tân Phú"
+                    },
+                    {
+                        "name": "Thuận Thành"
+                    },
+                    {
+                        "name": "Tiên Phong"
+                    },
+                    {
+                        "name": "Trung Thành"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Sông Công",
+                "wards": [
+                    {
+                        "name": "Bách Quang"
+                    },
+                    {
+                        "name": "Cải Đan"
+                    },
+                    {
+                        "name": "Châu Sơn"
+                    },
+                    {
+                        "name": "Lương Sơn"
+                    },
+                    {
+                        "name": "Mỏ Chè"
+                    },
+                    {
+                        "name": "Phố Cò"
+                    },
+                    {
+                        "name": "Thắng Lợi"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Thái Nguyên",
+                "wards": [
+                    {
+                        "name": "Cam Giá"
+                    },
+                    {
+                        "name": "Chùa Hang"
+                    },
+                    {
+                        "name": "Đồng Bẩm"
+                    },
+                    {
+                        "name": "Đồng Quang"
+                    },
+                    {
+                        "name": "Gia Sàng"
+                    },
+                    {
+                        "name": "Hoàng Văn Thụ"
+                    },
+                    {
+                        "name": "Hương Sơn"
+                    },
+                    {
+                        "name": "Phan Đình Phùng"
+                    },
+                    {
+                        "name": "Phú Xá"
+                    },
+                    {
+                        "name": "Quan Triều"
+                    },
+                    {
+                        "name": "Quang Trung"
+                    },
+                    {
+                        "name": "Quang Vinh"
+                    },
+                    {
+                        "name": "Tân Lập"
+                    },
+                    {
+                        "name": "Tân Long"
+                    },
+                    {
+                        "name": "Tân Thành"
+                    },
+                    {
+                        "name": "Tân Thịnh"
+                    },
+                    {
+                        "name": "Thịnh Đán"
+                    },
+                    {
+                        "name": "Tích Lương"
+                    },
+                    {
+                        "name": "Trung Thành"
+                    },
+                    {
+                        "name": "Trưng Vương"
+                    },
+                    {
+                        "name": "Túc Duyên"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Thanh Hóa",
+        "districts": [
+            {
+                "name": "Thành phố Thanh Hóa",
+                "wards": [
+                    {
+                        "name": "An Hưng"
+                    },
+                    {
+                        "name": "Ba Đình"
+                    },
+                    {
+                        "name": "Điện Biên"
+                    },
+                    {
+                        "name": "Đông Cương"
+                    },
+                    {
+                        "name": "Đông Hải"
+                    },
+                    {
+                        "name": "Đông Hương"
+                    },
+                    {
+                        "name": "Đông Lĩnh"
+                    },
+                    {
+                        "name": "Đông Sơn"
+                    },
+                    {
+                        "name": "Đông Tân"
+                    },
+                    {
+                        "name": "Đông Thọ"
+                    },
+                    {
+                        "name": "Đông Vệ"
+                    },
+                    {
+                        "name": "Hàm Rồng"
+                    },
+                    {
+                        "name": "Lam Sơn"
+                    },
+                    {
+                        "name": "Long Anh"
+                    },
+                    {
+                        "name": "Nam Ngạn"
+                    },
+                    {
+                        "name": "Ngọc Trạo"
+                    },
+                    {
+                        "name": "Phú Sơn"
+                    },
+                    {
+                        "name": "Quảng Cát"
+                    },
+                    {
+                        "name": "Quảng Đông"
+                    },
+                    {
+                        "name": "Quảng Hưng"
+                    },
+                    {
+                        "name": "Quảng Phú"
+                    },
+                    {
+                        "name": "Quảng Tâm"
+                    },
+                    {
+                        "name": "Quảng Thành"
+                    },
+                    {
+                        "name": "Quảng Thắng"
+                    },
+                    {
+                        "name": "Quảng Thịnh"
+                    },
+                    {
+                        "name": "Tào Xuyên"
+                    },
+                    {
+                        "name": "Tân Sơn"
+                    },
+                    {
+                        "name": "Thiệu Dương"
+                    },
+                    {
+                        "name": "Thiệu Khánh"
+                    },
+                    {
+                        "name": "Trường Thi"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Bỉm Sơn",
+                "wards": [
+                    {
+                        "name": "Ba Đình"
+                    },
+                    {
+                        "name": "Bắc Sơn"
+                    },
+                    {
+                        "name": "Đông Sơn"
+                    },
+                    {
+                        "name": "Lam Sơn"
+                    },
+                    {
+                        "name": "Ngọc Trạo"
+                    },
+                    {
+                        "name": "Phú Sơn"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Sầm Sơn",
+                "wards": [
+                    {
+                        "name": "Bắc Sơn"
+                    },
+                    {
+                        "name": "Quảng Châu"
+                    },
+                    {
+                        "name": "Quảng Cư"
+                    },
+                    {
+                        "name": "Quảng Thọ"
+                    },
+                    {
+                        "name": "Quảng Tiến"
+                    },
+                    {
+                        "name": "Quảng Vinh"
+                    },
+                    {
+                        "name": "Trung Sơn"
+                    },
+                    {
+                        "name": "Trường Sơn"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Nghi Sơn",
+                "wards": [
+                    {
+                        "name": "Bình Minh"
+                    },
+                    {
+                        "name": "Hải An"
+                    },
+                    {
+                        "name": "Hải Bình"
+                    },
+                    {
+                        "name": "Hải Châu"
+                    },
+                    {
+                        "name": "Hải Hòa"
+                    },
+                    {
+                        "name": "Hải Lĩnh"
+                    },
+                    {
+                        "name": "Hải Ninh"
+                    },
+                    {
+                        "name": "Hải Thanh"
+                    },
+                    {
+                        "name": "Hải Thượng"
+                    },
+                    {
+                        "name": "Mai Lâm"
+                    },
+                    {
+                        "name": "Nguyên Bình"
+                    },
+                    {
+                        "name": "Ninh Hải"
+                    },
+                    {
+                        "name": "Tân Dân"
+                    },
+                    {
+                        "name": "Tĩnh Hải"
+                    },
+                    {
+                        "name": "Trúc Lâm"
+                    },
+                    {
+                        "name": "Xuân Lâm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Thừa Thiên Huế",
+        "districts": [
+            {
+                "name": "Thành phố Huế",
+                "wards": [
+                    {
+                        "name": "An Cựu"
+                    },
+                    {
+                        "name": "An Đông"
+                    },
+                    {
+                        "name": "An Hòa"
+                    },
+                    {
+                        "name": "An Tây"
+                    },
+                    {
+                        "name": "Đông Ba"
+                    },
+                    {
+                        "name": "Gia Hội"
+                    },
+                    {
+                        "name": "Hương An"
+                    },
+                    {
+                        "name": "Hương Hồ"
+                    },
+                    {
+                        "name": "Hương Long"
+                    },
+                    {
+                        "name": "Hương Sơ"
+                    },
+                    {
+                        "name": "Hương Vinh"
+                    },
+                    {
+                        "name": "Kim Long"
+                    },
+                    {
+                        "name": "Phú Hậu"
+                    },
+                    {
+                        "name": "Phú Hội"
+                    },
+                    {
+                        "name": "Phú Nhuận"
+                    },
+                    {
+                        "name": "Phú Thượng"
+                    },
+                    {
+                        "name": "Phước Vĩnh"
+                    },
+                    {
+                        "name": "Phường Đúc"
+                    },
+                    {
+                        "name": "Tây Lộc"
+                    },
+                    {
+                        "name": "Thuận An"
+                    },
+                    {
+                        "name": "Thuận Hòa"
+                    },
+                    {
+                        "name": "Thuận Lộc"
+                    },
+                    {
+                        "name": "Thủy Biều"
+                    },
+                    {
+                        "name": "Thủy Vân"
+                    },
+                    {
+                        "name": "Thủy Xuân"
+                    },
+                    {
+                        "name": "Trường An"
+                    },
+                    {
+                        "name": "Vĩnh Ninh"
+                    },
+                    {
+                        "name": "Vỹ Dạ"
+                    },
+                    {
+                        "name": "Xuân Phú"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Hương Trà",
+                "wards": [
+                    {
+                        "name": "Hương Chữ"
+                    },
+                    {
+                        "name": "Hương Văn"
+                    },
+                    {
+                        "name": "Hương Vân"
+                    },
+                    {
+                        "name": "Hương Xuân"
+                    },
+                    {
+                        "name": "Tứ Hạ"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Hương Thủy",
+                "wards": [
+                    {
+                        "name": "Phú Bài"
+                    },
+                    {
+                        "name": "Thủy Châu"
+                    },
+                    {
+                        "name": "Thủy Dương"
+                    },
+                    {
+                        "name": "Thủy Lương"
+                    },
+                    {
+                        "name": "Thủy Phương"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tiền Giang",
+        "districts": [
+            {
+                "name": "Thị xã Cai Lậy",
+                "wards": [
+                    {
+                        "name": "Nhị Mỹ"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Mỹ Tho",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 10"
+                    },
+                    {
+                        "name": "Tân Long"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Gò Công",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Trà Vinh",
+        "districts": [
+            {
+                "name": "Thành phố Trà Vinh",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Duyên Hải",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tuyên Quang",
+        "districts": [
+            {
+                "name": "Thành phố Tuyên Quang",
+                "wards": [
+                    {
+                        "name": "An Tường"
+                    },
+                    {
+                        "name": "Đội Cấn"
+                    },
+                    {
+                        "name": "Hưng Thành"
+                    },
+                    {
+                        "name": "Minh Xuân"
+                    },
+                    {
+                        "name": "Mỹ Lâm"
+                    },
+                    {
+                        "name": "Nông Tiến"
+                    },
+                    {
+                        "name": "Phan Thiết"
+                    },
+                    {
+                        "name": "Tân Hà"
+                    },
+                    {
+                        "name": "Tân Quang"
+                    },
+                    {
+                        "name": "Ỷ La"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Vĩnh Long",
+        "districts": [
+            {
+                "name": "Thị xã Bình Minh",
+                "wards": [
+                    {
+                        "name": "Cái Vồn"
+                    },
+                    {
+                        "name": "Đông Thuận"
+                    },
+                    {
+                        "name": "Thành Phước"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Vĩnh Long",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Tân Hòa"
+                    },
+                    {
+                        "name": "Tân Hội"
+                    },
+                    {
+                        "name": "Tân Ngãi"
+                    },
+                    {
+                        "name": "Trường An"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Vĩnh Phúc",
+        "districts": [
+            {
+                "name": "Thành phố Vĩnh Yên",
+                "wards": [
+                    {
+                        "name": "Định Trung"
+                    },
+                    {
+                        "name": "Đống Đa"
+                    },
+                    {
+                        "name": "Đồng Tâm"
+                    },
+                    {
+                        "name": "Hội Hợp"
+                    },
+                    {
+                        "name": "Khai Quang"
+                    },
+                    {
+                        "name": "Liên Bảo"
+                    },
+                    {
+                        "name": "Ngô Quyền"
+                    },
+                    {
+                        "name": "Tích Sơn"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Phúc Yên",
+                "wards": [
+                    {
+                        "name": "Đồng Xuân"
+                    },
+                    {
+                        "name": "Hùng Vương"
+                    },
+                    {
+                        "name": "Nam Viêm"
+                    },
+                    {
+                        "name": "Phúc Thắng"
+                    },
+                    {
+                        "name": "Tiền Châu"
+                    },
+                    {
+                        "name": "Trưng Nhị"
+                    },
+                    {
+                        "name": "Trưng Trắc"
+                    },
+                    {
+                        "name": "Xuân Hòa"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Yên Bái",
+        "districts": [
+            {
+                "name": "Thị xã Nghĩa Lộ",
+                "wards": [
+                    {
+                        "name": "Cầu Thia"
+                    },
+                    {
+                        "name": "Pú Trạng"
+                    },
+                    {
+                        "name": "Tân An"
+                    },
+                    {
+                        "name": "Trung Tâm"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Yên Bái",
+                "wards": [
+                    {
+                        "name": "Đồng Tâm"
+                    },
+                    {
+                        "name": "Hồng Hà"
+                    },
+                    {
+                        "name": "Hợp Minh"
+                    },
+                    {
+                        "name": "Minh Tân"
+                    },
+                    {
+                        "name": "Nam Cường"
+                    },
+                    {
+                        "name": "Nguyễn Phúc"
+                    },
+                    {
+                        "name": "Nguyễn Thái Học"
+                    },
+                    {
+                        "name": "Yên Ninh"
+                    },
+                    {
+                        "name": "Yên Thịnh"
+                    }
+                ]
+            }
+        ]
+    }
+]
