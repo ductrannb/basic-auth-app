@@ -9,6 +9,6 @@ class ProvinceController extends Controller
 {
     public function getList() 
     {
-        return response()->json(['data' => Province::get('id', 'name')->toArray()]);
+        return response()->json(['data' => Province::get(['id', 'name'])->toArray()]);
     }
 }
