@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Model\Ward;
+use App\Models\Ward;
 
 class WardController extends Controller
 {
