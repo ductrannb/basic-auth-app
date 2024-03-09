@@ -11,7 +11,7 @@ class WardController extends Controller
     {
         $wards = Ward::when($request->district_id != null, function ($q) use ($request) {
             return $q->where('district_id', $request->district_id);
-        })->get(['id', 'name'])->toArray()
+        })->get(['id', 'name'])->toArray();
         return response()->json(['data' => $wards]);
     }
 }
