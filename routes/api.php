@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Route;
 Route::post('login', [AuthController::class, 'login']);
 Route::post('register', [AuthController::class, 'register']);
 Route::get('provinces', [ProvinceController::class, 'getList']);
-Route::get('district', [DistrictController::class, 'getList']);
+Route::get('districts', [DistrictController::class, 'getList']);
 Route::get('wards', [WardController::class, 'getList']);
 
 Route::group(['middleware' => 'api'], function () {
