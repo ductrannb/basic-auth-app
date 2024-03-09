@@ -1,10 +1,16 @@
 <?php
 
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\ProvinceController;
+use App\Http\Controllers\DistrictController;
+use App\Http\Controllers\WardController;
 use Illuminate\Support\Facades\Route;
 
 Route::post('login', [AuthController::class, 'login']);
 Route::post('register', [AuthController::class, 'register']);
+Route::get('provinces', [ProvinceController::class, 'getList']);
+Route::get('district', [DistrictController::class, 'getList']);
+Route::get('wards', [WardController::class, 'getList']);
 
 Route::group(['middleware' => 'api'], function () {
     Route::post('logout', [AuthController::class, 'logout']);
