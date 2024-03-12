@@ -37,7 +37,7 @@ class OtpMail extends Mailable
      */
     public function content(): Content
     {
-        return new Content(text: 'Mã OTP của bạn là: ' . $this->otp);
+        return new Content('mails.otp', ['otp' => $this->otp]);
     }
 
     /**
