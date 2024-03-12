@@ -69,7 +69,7 @@ class AuthController extends Controller
         $otp = rand(100000, 999999);
         $email = $request->email;
         dispatch(new SendOtpJob($email, $otp));
-        return response()->json(['otp' => $otp]);
+        return response()->json(['message' => 'Sent OTP to your email. Please check your email for OTP code.'], 200);
     }
 
     public function verifyOtp(OtpRequest $request)
