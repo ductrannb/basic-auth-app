@@ -2,11 +2,13 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Requests\GetOtpRequest;
 use App\Http\Requests\LoginRequest;
+use App\Http\Requests\OtpRequest;
 use App\Http\Requests\RegisterRequest;
+use App\Jobs\SendOtpJob;
+use App\Models\Otp;
 use App\Models\User;
-use Illuminate\Support\Facades\Auth;
-use App\Http\Controllers\Controller;
 
 class AuthController extends Controller
 {
@@ -60,5 +62,23 @@ class AuthController extends Controller
             'token_type' => 'bearer',
             'expires_in' => auth()->factory()->getTTL() * 60
         ]);
+    }
+
+    public function getOtp(GetOtpRequest $request)
+    {
+        $otp = rand(100000, 999999);
+        $email = $request->email;
+        dispatch(new SendOtpJob($email, $otp));
+        return response()->json(['otp' => $otp]);
+    }
+
+    public function verifyOtp(OtpRequest $request)
+    {
+        $otp = Otp::where('email', $request->email)->where('otp', $request->otp)->where('is_used', false)->latest()->first();
+        if (! $otp) {
+            return response()->json(['message' => 'Invalid OTP'], 400);
+        }
+        $otp->update(['is_used' => true]);
+        return response()->json(['message' => 'OTP verified']);
     }
 }
