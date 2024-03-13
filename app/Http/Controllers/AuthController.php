@@ -9,6 +9,7 @@ use App\Http\Requests\RegisterRequest;
 use App\Jobs\SendOtpJob;
 use App\Models\Otp;
 use App\Models\User;
+use Illuminate\Http\Response;
 
 class AuthController extends Controller
 {
@@ -26,6 +27,10 @@ class AuthController extends Controller
 
         if (! $token = auth()->attempt($credentials)) {
             return response()->json(['error' => 'Unauthorized'], 401);
+        }
+
+        if (auth()->user()->verified_email_at == null) {
+            return  response()->json(['message' => 'Account is not verify'], Response::HTTP_BAD_REQUEST);
         }
 
         return $this->respondWithToken($token);
