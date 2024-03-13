@@ -1,0 +1,283 @@
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2024-03-12 16:44:29 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-12 16:44:29 App\Jobs\SendOtpJob ....................... 40.75ms FAIL
+  2024-03-12 16:44:29 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-12 16:44:29 App\Jobs\SendOtpJob ....................... 22.19ms FAIL
+  2024-03-12 16:44:41 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:44:41 Laravel\Telescope\Jobs\ProcessPendingUpdates  16.88ms DONE
+  2024-03-12 16:44:41 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:44:41 Laravel\Telescope\Jobs\ProcessPendingUpdates  19.49ms DONE
+  2024-03-12 16:44:53 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:44:53 Laravel\Telescope\Jobs\ProcessPendingUpdates  22.80ms DONE
+  2024-03-12 16:44:53 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:44:53 Laravel\Telescope\Jobs\ProcessPendingUpdates  15.39ms DONE
+  2024-03-12 16:45:05 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:45:05 Laravel\Telescope\Jobs\ProcessPendingUpdates  8.51ms DONE
+  2024-03-12 16:45:05 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:45:05 Laravel\Telescope\Jobs\ProcessPendingUpdates  8.20ms DONE
+  2024-03-12 16:50:30 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-12 16:50:30 App\Jobs\SendOtpJob ....................... 24.81ms FAIL
+  2024-03-12 16:50:42 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:50:42 Laravel\Telescope\Jobs\ProcessPendingUpdates  18.51ms DONE
+  2024-03-12 16:50:54 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:50:54 Laravel\Telescope\Jobs\ProcessPendingUpdates  15.40ms DONE
+  2024-03-12 16:51:06 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:51:06 Laravel\Telescope\Jobs\ProcessPendingUpdates  9.56ms DONE
+  2024-03-12 16:51:54 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-12 16:51:54 App\Jobs\SendOtpJob ....................... 56.32ms FAIL
+  2024-03-12 16:52:06 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:52:06 Laravel\Telescope\Jobs\ProcessPendingUpdates  20.15ms DONE
+  2024-03-12 16:52:18 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:52:18 Laravel\Telescope\Jobs\ProcessPendingUpdates  17.42ms DONE
+  2024-03-12 16:52:30 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:52:30 Laravel\Telescope\Jobs\ProcessPendingUpdates  12.94ms DONE
+  2024-03-12 16:54:21 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-12 16:54:21 App\Jobs\SendOtpJob ....................... 14.33ms FAIL
+  2024-03-12 16:54:33 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:54:33 Laravel\Telescope\Jobs\ProcessPendingUpdates  16.93ms DONE
+  2024-03-12 16:54:45 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:54:45 Laravel\Telescope\Jobs\ProcessPendingUpdates  15.40ms DONE
+  2024-03-12 16:54:57 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:54:57 Laravel\Telescope\Jobs\ProcessPendingUpdates  9.20ms DONE
+  2024-03-12 16:56:59 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-12 16:57:02 App\Jobs\SendOtpJob ............................ 2s DONE
+  2024-03-12 16:57:14 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:57:14 Laravel\Telescope\Jobs\ProcessPendingUpdates  11.70ms DONE
+  2024-03-12 16:57:26 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:57:26 Laravel\Telescope\Jobs\ProcessPendingUpdates  12.16ms DONE
+  2024-03-12 16:57:38 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 16:57:38 Laravel\Telescope\Jobs\ProcessPendingUpdates  6.53ms DONE
+  2024-03-12 17:01:14 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-12 17:01:16 App\Jobs\SendOtpJob ............................ 1s DONE
+  2024-03-12 17:01:28 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 17:01:28 Laravel\Telescope\Jobs\ProcessPendingUpdates  14.71ms DONE
+  2024-03-12 17:01:40 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 17:01:40 Laravel\Telescope\Jobs\ProcessPendingUpdates  35.26ms DONE
+  2024-03-12 17:01:52 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-12 17:01:52 Laravel\Telescope\Jobs\ProcessPendingUpdates  9.52ms DONE
+  2024-03-13 09:28:28 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:28:31 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:28:43 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:28:43 Laravel\Telescope\Jobs\ProcessPendingUpdates  18.29ms DONE
+  2024-03-13 09:28:55 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:28:55 Laravel\Telescope\Jobs\ProcessPendingUpdates  19.69ms DONE
+  2024-03-13 09:29:07 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:29:07 Laravel\Telescope\Jobs\ProcessPendingUpdates  13.26ms DONE
+  2024-03-13 09:32:10 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:32:13 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:32:25 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:32:25 Laravel\Telescope\Jobs\ProcessPendingUpdates  19.76ms DONE
+  2024-03-13 09:32:37 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:32:37 Laravel\Telescope\Jobs\ProcessPendingUpdates  16.81ms DONE
+  2024-03-13 09:32:49 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:32:49 Laravel\Telescope\Jobs\ProcessPendingUpdates  19.01ms DONE
+  2024-03-13 09:33:01 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:33:04 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:33:16 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:33:16 Laravel\Telescope\Jobs\ProcessPendingUpdates  15.17ms DONE
+  2024-03-13 09:33:28 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:33:28 Laravel\Telescope\Jobs\ProcessPendingUpdates  16.49ms DONE
+  2024-03-13 09:33:40 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:33:40 Laravel\Telescope\Jobs\ProcessPendingUpdates  11.31ms DONE
+  2024-03-13 09:35:10 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:35:13 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:35:25 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:35:25 Laravel\Telescope\Jobs\ProcessPendingUpdates  19.09ms DONE
+  2024-03-13 09:35:37 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:35:37 Laravel\Telescope\Jobs\ProcessPendingUpdates  14.41ms DONE
+  2024-03-13 09:35:49 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:35:49 Laravel\Telescope\Jobs\ProcessPendingUpdates  12.04ms DONE
+  2024-03-13 09:36:34 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:36:37 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:36:49 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:36:49 Laravel\Telescope\Jobs\ProcessPendingUpdates  18.60ms DONE
+  2024-03-13 09:37:01 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:37:01 Laravel\Telescope\Jobs\ProcessPendingUpdates  24.11ms DONE
+  2024-03-13 09:37:13 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:37:13 Laravel\Telescope\Jobs\ProcessPendingUpdates  9.68ms DONE
+  2024-03-13 09:37:40 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:37:42 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:37:42 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:37:45 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:37:45 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:37:48 App\Jobs\SendOtpJob ............................ 3s FAIL
+  2024-03-13 09:37:48 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:37:51 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:37:51 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:37:53 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:37:53 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:37:56 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:37:56 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:37:58 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:37:58 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:38:01 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:38:01 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:38:04 App\Jobs\SendOtpJob ............................ 3s FAIL
+  2024-03-13 09:38:04 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:04 Laravel\Telescope\Jobs\ProcessPendingUpdates  15.65ms DONE
+  2024-03-13 09:38:04 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:04 Laravel\Telescope\Jobs\ProcessPendingUpdates  16.22ms DONE
+  2024-03-13 09:38:04 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:38:07 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:38:07 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:38:09 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:38:09 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:09 Laravel\Telescope\Jobs\ProcessPendingUpdates  15.14ms DONE
+  2024-03-13 09:38:09 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:09 Laravel\Telescope\Jobs\ProcessPendingUpdates  15.06ms DONE
+  2024-03-13 09:38:09 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:38:12 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:38:12 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:12 Laravel\Telescope\Jobs\ProcessPendingUpdates  38.20ms DONE
+  2024-03-13 09:38:12 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:12 Laravel\Telescope\Jobs\ProcessPendingUpdates  15.49ms DONE
+  2024-03-13 09:38:12 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:12 Laravel\Telescope\Jobs\ProcessPendingUpdates  36.13ms DONE
+  2024-03-13 09:38:12 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:12 Laravel\Telescope\Jobs\ProcessPendingUpdates  16.60ms DONE
+  2024-03-13 09:38:15 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:15 Laravel\Telescope\Jobs\ProcessPendingUpdates  17.77ms DONE
+  2024-03-13 09:38:15 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:15 Laravel\Telescope\Jobs\ProcessPendingUpdates  15.41ms DONE
+  2024-03-13 09:38:15 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:15 Laravel\Telescope\Jobs\ProcessPendingUpdates  16.93ms DONE
+  2024-03-13 09:38:18 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:18 Laravel\Telescope\Jobs\ProcessPendingUpdates  16.01ms DONE
+  2024-03-13 09:38:21 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:21 Laravel\Telescope\Jobs\ProcessPendingUpdates  30.05ms DONE
+  2024-03-13 09:38:21 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:21 Laravel\Telescope\Jobs\ProcessPendingUpdates  18.28ms DONE
+  2024-03-13 09:38:21 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:21 Laravel\Telescope\Jobs\ProcessPendingUpdates  35.18ms DONE
+  2024-03-13 09:38:24 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:24 Laravel\Telescope\Jobs\ProcessPendingUpdates  17.61ms DONE
+  2024-03-13 09:38:24 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:24 Laravel\Telescope\Jobs\ProcessPendingUpdates  16.37ms DONE
+  2024-03-13 09:38:24 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:24 Laravel\Telescope\Jobs\ProcessPendingUpdates  14.86ms DONE
+  2024-03-13 09:38:24 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:24 Laravel\Telescope\Jobs\ProcessPendingUpdates  20.92ms DONE
+  2024-03-13 09:38:24 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:24 Laravel\Telescope\Jobs\ProcessPendingUpdates  16.91ms DONE
+  2024-03-13 09:38:27 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:27 Laravel\Telescope\Jobs\ProcessPendingUpdates  14.65ms DONE
+  2024-03-13 09:38:27 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:27 Laravel\Telescope\Jobs\ProcessPendingUpdates  9.98ms DONE
+  2024-03-13 09:38:27 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:27 Laravel\Telescope\Jobs\ProcessPendingUpdates  7.15ms DONE
+  2024-03-13 09:38:30 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:30 Laravel\Telescope\Jobs\ProcessPendingUpdates  16.73ms DONE
+  2024-03-13 09:38:33 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:33 Laravel\Telescope\Jobs\ProcessPendingUpdates  18.64ms DONE
+  2024-03-13 09:38:33 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:34 Laravel\Telescope\Jobs\ProcessPendingUpdates  9.01ms DONE
+  2024-03-13 09:38:34 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:34 Laravel\Telescope\Jobs\ProcessPendingUpdates  10.80ms DONE
+  2024-03-13 09:38:34 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:34 Laravel\Telescope\Jobs\ProcessPendingUpdates  26.82ms DONE
+  2024-03-13 09:38:34 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:34 Laravel\Telescope\Jobs\ProcessPendingUpdates  8.07ms DONE
+  2024-03-13 09:38:34 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:34 Laravel\Telescope\Jobs\ProcessPendingUpdates  14.03ms DONE
+  2024-03-13 09:38:34 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:34 Laravel\Telescope\Jobs\ProcessPendingUpdates  9.89ms DONE
+  2024-03-13 09:38:34 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:34 Laravel\Telescope\Jobs\ProcessPendingUpdates  8.20ms DONE
+  2024-03-13 09:38:37 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:37 Laravel\Telescope\Jobs\ProcessPendingUpdates  8.83ms DONE
+  2024-03-13 09:38:40 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:40 Laravel\Telescope\Jobs\ProcessPendingUpdates  8.53ms DONE
+  2024-03-13 09:38:43 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:43 Laravel\Telescope\Jobs\ProcessPendingUpdates  11.28ms DONE
+  2024-03-13 09:38:46 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:38:46 Laravel\Telescope\Jobs\ProcessPendingUpdates  10.70ms DONE
+  2024-03-13 09:39:01 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:39:03 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:39:03 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:39:06 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:39:06 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:39:08 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:39:11 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:39:14 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:39:14 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:39:14 Laravel\Telescope\Jobs\ProcessPendingUpdates  19.91ms DONE
+  2024-03-13 09:39:17 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:39:17 Laravel\Telescope\Jobs\ProcessPendingUpdates  15.99ms DONE
+  2024-03-13 09:39:20 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:39:20 Laravel\Telescope\Jobs\ProcessPendingUpdates  25.07ms DONE
+  2024-03-13 09:39:26 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:39:26 Laravel\Telescope\Jobs\ProcessPendingUpdates  16.78ms DONE
+  2024-03-13 09:39:26 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:39:26 Laravel\Telescope\Jobs\ProcessPendingUpdates  16.42ms DONE
+  2024-03-13 09:39:29 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:39:29 Laravel\Telescope\Jobs\ProcessPendingUpdates  21.15ms DONE
+  2024-03-13 09:39:32 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:39:32 Laravel\Telescope\Jobs\ProcessPendingUpdates  16.94ms DONE
+  2024-03-13 09:39:38 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:39:38 Laravel\Telescope\Jobs\ProcessPendingUpdates  18.98ms DONE
+  2024-03-13 09:39:38 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:39:38 Laravel\Telescope\Jobs\ProcessPendingUpdates  10.44ms DONE
+  2024-03-13 09:39:41 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:39:41 Laravel\Telescope\Jobs\ProcessPendingUpdates  8.33ms DONE
+  2024-03-13 09:39:44 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:39:44 Laravel\Telescope\Jobs\ProcessPendingUpdates  8.27ms DONE
+  2024-03-13 09:39:50 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:39:50 Laravel\Telescope\Jobs\ProcessPendingUpdates  11.74ms DONE
+  2024-03-13 09:40:05 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:40:08 App\Jobs\SendOtpJob ............................ 2s FAIL
+  2024-03-13 09:40:20 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:40:20 Laravel\Telescope\Jobs\ProcessPendingUpdates  14.60ms DONE
+  2024-03-13 09:40:32 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:40:32 Laravel\Telescope\Jobs\ProcessPendingUpdates  21.07ms DONE
+  2024-03-13 09:40:44 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:40:44 Laravel\Telescope\Jobs\ProcessPendingUpdates  14.37ms DONE
+  2024-03-13 09:41:25 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:41:28 App\Jobs\SendOtpJob ............................ 2s DONE
+  2024-03-13 09:41:28 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:41:29 App\Jobs\SendOtpJob ............................ 1s DONE
+  2024-03-13 09:41:38 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:41:38 Laravel\Telescope\Jobs\ProcessPendingUpdates  8.84ms DONE
+  2024-03-13 09:41:41 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:41:41 Laravel\Telescope\Jobs\ProcessPendingUpdates  11.76ms DONE
+  2024-03-13 09:41:50 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:41:50 Laravel\Telescope\Jobs\ProcessPendingUpdates  13.36ms DONE
+  2024-03-13 09:41:53 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:41:53 Laravel\Telescope\Jobs\ProcessPendingUpdates  11.79ms DONE
+  2024-03-13 09:42:02 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:42:02 Laravel\Telescope\Jobs\ProcessPendingUpdates  10.58ms DONE
+  2024-03-13 09:42:05 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:42:05 Laravel\Telescope\Jobs\ProcessPendingUpdates  5.64ms DONE
+  2024-03-13 09:48:54 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:48:55 App\Jobs\SendOtpJob ............................ 1s DONE
+  2024-03-13 09:49:07 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:49:07 Laravel\Telescope\Jobs\ProcessPendingUpdates  21.33ms DONE
+  2024-03-13 09:49:19 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:49:19 Laravel\Telescope\Jobs\ProcessPendingUpdates  11.36ms DONE
+  2024-03-13 09:49:31 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:49:31 Laravel\Telescope\Jobs\ProcessPendingUpdates  13.54ms DONE
+  2024-03-13 09:49:43 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:49:44 App\Jobs\SendOtpJob ............................ 1s DONE
+  2024-03-13 09:49:56 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:49:56 Laravel\Telescope\Jobs\ProcessPendingUpdates  15.90ms DONE
+  2024-03-13 09:50:08 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:50:08 Laravel\Telescope\Jobs\ProcessPendingUpdates  12.84ms DONE
+  2024-03-13 09:50:20 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:50:20 Laravel\Telescope\Jobs\ProcessPendingUpdates  14.87ms DONE
+  2024-03-13 09:55:59 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 09:56:01 App\Jobs\SendOtpJob ............................ 1s DONE
+  2024-03-13 09:56:13 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:56:13 Laravel\Telescope\Jobs\ProcessPendingUpdates  13.56ms DONE
+  2024-03-13 09:56:25 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:56:25 Laravel\Telescope\Jobs\ProcessPendingUpdates  14.28ms DONE
+  2024-03-13 09:56:37 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 09:56:37 Laravel\Telescope\Jobs\ProcessPendingUpdates  8.11ms DONE
+  2024-03-13 10:05:49 App\Jobs\SendOtpJob ............................ RUNNING
+  2024-03-13 10:05:51 App\Jobs\SendOtpJob ............................ 1s DONE
+  2024-03-13 10:06:03 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 10:06:03 Laravel\Telescope\Jobs\ProcessPendingUpdates  11.87ms DONE
+  2024-03-13 10:06:15 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 10:06:15 Laravel\Telescope\Jobs\ProcessPendingUpdates  15.36ms DONE
+  2024-03-13 10:06:27 Laravel\Telescope\Jobs\ProcessPendingUpdates ... RUNNING
+  2024-03-13 10:06:27 Laravel\Telescope\Jobs\ProcessPendingUpdates  10.14ms DONE
