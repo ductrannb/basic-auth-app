@@ -79,6 +79,8 @@ class AuthController extends Controller
     public function verifyOtp(OtpRequest $request)
     {
         $otp = Otp::where('email', $request->email)->where('otp', $request->otp)->where('is_used', false)->latest()->first();
+        auth()->user()->verified_email_at = now();
+        auth()->user()->update();
         if (! $otp) {
             return response()->json(['message' => 'Invalid OTP'], 400);
         }
