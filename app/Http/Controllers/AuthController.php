@@ -9,6 +9,7 @@ use App\Http\Requests\RegisterRequest;
 use App\Jobs\SendOtpJob;
 use App\Models\Otp;
 use App\Models\User;
+use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 
 class AuthController extends Controller
@@ -90,5 +91,15 @@ class AuthController extends Controller
         User::where('email', $request->email)->update(['verified_email_at' => now()]);
         $otp->update(['is_used' => true]);
         return response()->json(['message' => 'OTP verified']);
+    }
+
+    public function resetPassword(Request $request)
+    {
+        $user = User::where('email', $request->email)->first();
+        if (! $user) {
+            return response()->json(['message' => 'User not found'], 404);
+        }
+        $user->update(['password' => $request->password]);
+        return response()->json(['message' => 'Password reset successfully']);
     }
 }

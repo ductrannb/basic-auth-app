@@ -10,6 +10,7 @@ Route::post('login', [AuthController::class, 'login']);
 Route::post('register', [AuthController::class, 'register']);
 Route::get('get-otp', [AuthController::class, 'getOtp']);
 Route::post('verify-otp', [AuthController::class, 'verifyOtp']);
+Route::post('reset-password', [AuthController::class, 'resetPassword']);
 
 Route::get('provinces', [ProvinceController::class, 'getList']);
 Route::get('districts', [DistrictController::class, 'getList']);
