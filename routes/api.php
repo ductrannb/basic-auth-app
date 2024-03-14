@@ -1,8 +1,9 @@
 <?php
 
+use App\Helpers\GeminiHelper;
 use App\Http\Controllers\AuthController;
-use App\Http\Controllers\ProvinceController;
 use App\Http\Controllers\DistrictController;
+use App\Http\Controllers\ProvinceController;
 use App\Http\Controllers\WardController;
 use Illuminate\Support\Facades\Route;
 
@@ -34,4 +35,8 @@ Route::get('info', function () {
         ],
         'ingame' => 'Fizz Not Feed#FNF',
     ]);
+});
+
+Route::prefix('gemini')->group(function () {
+   Route::post('text-generate', [GeminiHelper::class, 'textGenerate']);
 });
