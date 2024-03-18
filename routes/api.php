@@ -5,6 +5,7 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DistrictController;
 use App\Http\Controllers\ProvinceController;
 use App\Http\Controllers\WardController;
+use Illuminate\Support\Facades\Broadcast;
 use Illuminate\Support\Facades\Route;
 
 Route::post('login', [AuthController::class, 'login']);
@@ -40,3 +41,5 @@ Route::get('info', function () {
 Route::prefix('gemini')->group(function () {
    Route::post('text-generate', [GeminiHelper::class, 'textGenerate']);
 });
+
+Broadcast::routes();

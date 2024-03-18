@@ -25,6 +25,7 @@ class GeminiHelper
             $chat = $gemini->chat;
         }
         $result = $gemini->sendMessage($request->message);
+
         return response()->json([
             'chat_session' => $chat->getId(),
             'data' => $result

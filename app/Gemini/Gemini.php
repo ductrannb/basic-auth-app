@@ -2,6 +2,7 @@
 
 namespace App\Gemini;
 
+use App\Events\GeminiChatEvent;
 use App\Models\GeminiChat;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Facades\Http;
@@ -80,6 +81,7 @@ class Gemini
         $geminiChat = GeminiChat::find($this->chat->getId());
         $geminiChat->parts = $this->chat->getParts();
         $geminiChat->save();
+        GeminiChatEvent::dispatch($this->chat);
         return [
             'code' => '200',
             'message' => $text
